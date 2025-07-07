@@ -22,3 +22,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 7. **Beveling** – cut a bevel on; shape to a bevel
 
+8. **Mismatch** – a bad or unsuitable match
+
