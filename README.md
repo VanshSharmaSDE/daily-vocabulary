@@ -26,3 +26,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 9. **Clairvoyance** – apparent power to perceive things that are not present to the senses
 
+10. **Bloodstream** – the blood flowing through the circulatory system
+
