@@ -1,0 +1,33 @@
+name: Daily Vocabulary Commit
+
+on:
+  schedule:
+    - cron: "30 3 * * *"  # Run at 9:00 AM IST (3:30 AM UTC)
+  workflow_dispatch:
+
+jobs:
+  daily-words:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run vocabulary script
+        run: python scripts/generate_words.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "YourGitHubUsername"
+          git config --global user.email "youremail@example.com"
+          git add README.md .used_words.txt
+          git commit -m "📘 Daily vocabulary update $(date '+%Y-%m-%d')" || echo "Nothing to commit"
+          git push
