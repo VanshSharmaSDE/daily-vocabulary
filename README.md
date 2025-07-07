@@ -18,3 +18,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 5. **Cambial** – of or relating to or functioning as a cambium
 
+6. **Lavender** – any of various Old World aromatic shrubs or subshrubs with usually mauve or blue flowers; widely cultivated
+
