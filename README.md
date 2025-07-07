@@ -14,3 +14,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 3. **Razorback** – a mongrel hog with a thin body and long legs and a ridged back; a wild or semi-wild descendant of improved breeds; found chiefly in the southeastern United States
 
+4. **Cheek** – either side of the face below the eyes
+
