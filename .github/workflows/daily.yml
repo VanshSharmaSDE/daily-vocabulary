@@ -2,11 +2,11 @@ name: 📘 Daily Vocabulary Update
 
 on:
   schedule:
-    - cron: "0 3 * * *"  # Runs daily at 9:00 AM IST (3:30 AM UTC)
-  workflow_dispatch:
+    - cron: "0 3 * * *"  # 🕘 Runs daily at 9:00 AM IST (3:30 AM UTC)
+  workflow_dispatch:       # ✅ Allows manual triggering for testing
 
 permissions:
-  contents: write  # ✅ Required to push changes
+  contents: write  # ✅ Required for committing/pushing changes
 
 jobs:
   update-readme:
@@ -26,10 +26,10 @@ jobs:
           pip install -r requirements.txt
           python -m nltk.downloader wordnet omw-1.4
 
-      - name: 🚀 Run word generator
+      - name: 🚀 Run word generator (5 commits inside script)
         run: python scripts/generate_words.py
 
-      - name: ✅ Commit and push
+      - name: ✅ Push all 5 commits
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
