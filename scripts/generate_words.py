@@ -4,10 +4,15 @@ import random
 import nltk
 from nltk.corpus import wordnet as wn
 
+# File paths
 USED_WORDS_FILE = ".used_words.txt"
 COUNTER_FILE = ".word_counter.txt"
 README_FILE = "README.md"
 WORD_LIST_FILE = "data/words.txt"
+
+# Ensure NLTK data is available
+nltk.download("wordnet")
+nltk.download("omw-1.4")
 
 def load_used_words():
     if os.path.exists(USED_WORDS_FILE):
@@ -23,7 +28,9 @@ def save_used_words(words):
 def get_start_index():
     if os.path.exists(COUNTER_FILE):
         with open(COUNTER_FILE, "r") as f:
-            return int(f.read().strip()) + 1
+            content = f.read().strip()
+            if content.isdigit():
+                return int(content) + 1
     return 1
 
 def update_counter(new_index):
@@ -57,8 +64,11 @@ def get_random_word(used_words, all_words):
     return None, None
 
 def main():
-    nltk.download("wordnet")
-    nltk.download("omw-1.4")
+    # Ensure support files exist
+    if not os.path.exists(COUNTER_FILE):
+        with open(COUNTER_FILE, "w") as f:
+            f.write("0")
+    open(USED_WORDS_FILE, "a").close()
 
     used_words = load_used_words()
 
@@ -75,6 +85,10 @@ def main():
             print(f"✅ {word} - {definition}")
             collected.append((word, definition))
             used_words.add(word)
+
+    if not collected:
+        print("⚠️ No valid words found.")
+        return
 
     start_index = get_start_index()
     append_to_readme(collected, start_index)
