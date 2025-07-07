@@ -1,6 +1,7 @@
 import datetime
 import os
 import random
+import subprocess
 import nltk
 from nltk.corpus import wordnet as wn
 
@@ -20,10 +21,9 @@ def load_used_words():
             return set(f.read().splitlines())
     return set()
 
-def save_used_words(words):
+def save_used_word(word):
     with open(USED_WORDS_FILE, "a") as f:
-        for word in words:
-            f.write(word + "\n")
+        f.write(word + "\n")
 
 def get_start_index():
     if os.path.exists(COUNTER_FILE):
@@ -37,12 +37,16 @@ def update_counter(new_index):
     with open(COUNTER_FILE, "w") as f:
         f.write(str(new_index))
 
-def append_to_readme(entries, start_index):
+def append_to_readme(word, definition, index):
     today = datetime.datetime.now().strftime("## 📅 %Y-%m-%d")
+    
+    # Only write the heading if today's date is not already in the file
+    if not os.path.exists(README_FILE) or today not in open(README_FILE, "r", encoding="utf-8").read():
+        with open(README_FILE, "a", encoding="utf-8") as f:
+            f.write(f"\n\n{today}\n\n")
+    
     with open(README_FILE, "a", encoding="utf-8") as f:
-        f.write(f"\n\n{today}\n\n")
-        for i, (word, definition) in enumerate(entries, start=start_index):
-            f.write(f"{i}. **{word.capitalize()}** – {definition.strip()}\n\n")
+        f.write(f"{index}. **{word.capitalize()}** – {definition.strip()}\n\n")
 
 def get_meaning(word):
     synsets = wn.synsets(word)
@@ -63,6 +67,10 @@ def get_random_word(used_words, all_words):
         tries += 1
     return None, None
 
+def git_commit(word, index):
+    subprocess.run(["git", "add", README_FILE, USED_WORDS_FILE, COUNTER_FILE])
+    subprocess.run(["git", "commit", "-m", f"📘 Word {index}: {word.capitalize()} added to vocabulary"])
+
 def main():
     # Ensure support files exist
     if not os.path.exists(COUNTER_FILE):
@@ -75,26 +83,25 @@ def main():
     with open(WORD_LIST_FILE, "r") as f:
         all_words = [w.strip().lower() for w in f if w.strip().isalpha() and len(w.strip()) > 4]
 
-    collected = []
-
     print("🔍 Fetching 5 unique words...")
 
-    while len(collected) < 5:
+    start_index = get_start_index()
+    current_index = start_index
+    success_count = 0
+
+    while success_count < 5:
         word, definition = get_random_word(used_words, all_words)
         if word and definition:
             print(f"✅ {word} - {definition}")
-            collected.append((word, definition))
+            append_to_readme(word, definition, current_index)
+            save_used_word(word)
+            update_counter(current_index)
+            git_commit(word, current_index)
             used_words.add(word)
+            current_index += 1
+            success_count += 1
 
-    if not collected:
-        print("⚠️ No valid words found.")
-        return
-
-    start_index = get_start_index()
-    append_to_readme(collected, start_index)
-    update_counter(start_index + len(collected) - 1)
-    save_used_words([word for word, _ in collected])
-    print("✅ Successfully added to README.md")
+    print("✅ All 5 words committed successfully.")
 
 if __name__ == "__main__":
     main()
