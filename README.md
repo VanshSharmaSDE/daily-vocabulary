@@ -16,3 +16,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 4. **Cheek** – either side of the face below the eyes
 
+5. **Cambial** – of or relating to or functioning as a cambium
+
