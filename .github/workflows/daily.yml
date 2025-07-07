@@ -28,8 +28,8 @@ jobs:
 
       - name: Commit and Push
         run: |
-          git config --global user.name "YourGitHubUsername"
-          git config --global user.email "your@email.com"
+          git config --global user.name "VanshSharmaSDE"
+          git config --global user.email "vansh123321@outlook.com"
           git add README.md .used_words.txt .word_counter.txt
           git commit -m "📘 Daily vocabulary update $(date '+%Y-%m-%d')" || echo "No changes to commit"
           git push
