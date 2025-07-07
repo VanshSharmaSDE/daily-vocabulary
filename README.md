@@ -16,3 +16,17 @@ This repository is updated daily with 5 new English words and their meanings.
 
 5. **Coreopsis** – any of numerous plants of the genus Coreopsis having a profusion of showy usually yellow daisylike flowers over long periods; North and South America
 
+
+
+## 📅 2025-07-07
+
+6. **Electives** – a course that the student can select from among alternatives
+
+7. **Voltmeters** – meter that measures the potential difference between two points
+
+8. **Undiscoverable** – not able to be ascertained; resisting discovery
+
+9. **Spreadhead** – two facing pages of a book or other publication
+
+10. **Tympanist** – a person who plays the kettledrums
+
