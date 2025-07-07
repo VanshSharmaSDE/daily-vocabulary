@@ -24,3 +24,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 8. **Mismatch** – a bad or unsuitable match
 
+9. **Clairvoyance** – apparent power to perceive things that are not present to the senses
+
