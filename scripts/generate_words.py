@@ -1,14 +1,14 @@
 import datetime
 import os
+import random
 from PyDictionary import PyDictionary
-from random_word import RandomWords
 
 dictionary = PyDictionary()
-random_word = RandomWords()
 
 USED_WORDS_FILE = ".used_words.txt"
 COUNTER_FILE = ".word_counter.txt"
 README_FILE = "README.md"
+ENGLISH_WORD_LIST = "/usr/share/dict/words"
 
 def load_used_words():
     if os.path.exists(USED_WORDS_FILE):
@@ -38,36 +38,42 @@ def append_to_readme(entries, start_index):
         for i, (word, definition) in enumerate(entries, start=start_index):
             f.write(f"{i}. **{word.capitalize()}** – {definition.strip()}\n\n")
 
-def fetch_unique_word(used_words):
-    for _ in range(20):  # Retry limit
-        word = random_word.get_random_word()
-        if word and word.isalpha() and word.lower() not in used_words:
-            meanings = dictionary.meaning(word)
-            if meanings:
-                for part in ["Noun", "Verb", "Adjective", "Adverb"]:
-                    if part in meanings:
-                        return word.lower(), meanings[part][0]
+def get_random_word(used_words):
+    with open(ENGLISH_WORD_LIST, "r") as f:
+        words = [w.strip().lower() for w in f if w.strip().isalpha() and len(w.strip()) > 4]
+    tries = 0
+    while tries < 50:
+        word = random.choice(words)
+        if word not in used_words:
+            try:
+                meanings = dictionary.meaning(word)
+                if meanings:
+                    for part in ["Noun", "Verb", "Adjective", "Adverb"]:
+                        if part in meanings:
+                            return word, meanings[part][0]
+            except Exception:
+                pass
+        tries += 1
     return None, None
 
 def main():
     used_words = load_used_words()
     collected = []
 
+    print("🔍 Fetching 5 unique words...")
+
     while len(collected) < 5:
-        word, definition = fetch_unique_word(used_words)
+        word, definition = get_random_word(used_words)
         if word and definition:
+            print(f"✅ {word} - {definition}")
             collected.append((word, definition))
             used_words.add(word)
-
-    if not collected:
-        print("⚠️ No valid words found.")
-        return
 
     start_index = get_start_index()
     append_to_readme(collected, start_index)
     update_counter(start_index + len(collected) - 1)
     save_used_words([word for word, _ in collected])
-    print(f"✅ Added {len(collected)} new words to README.md")
+    print("✅ Successfully added to README.md")
 
 if __name__ == "__main__":
     main()
