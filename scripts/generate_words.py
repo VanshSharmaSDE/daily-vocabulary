@@ -1,14 +1,13 @@
 import datetime
 import os
 import random
-from PyDictionary import PyDictionary
-
-dictionary = PyDictionary()
+import nltk
+from nltk.corpus import wordnet as wn
 
 USED_WORDS_FILE = ".used_words.txt"
 COUNTER_FILE = ".word_counter.txt"
 README_FILE = "README.md"
-ENGLISH_WORD_LIST = "data/words.txt"
+WORD_LIST_FILE = "data/words.txt"
 
 def load_used_words():
     if os.path.exists(USED_WORDS_FILE):
@@ -38,32 +37,40 @@ def append_to_readme(entries, start_index):
         for i, (word, definition) in enumerate(entries, start=start_index):
             f.write(f"{i}. **{word.capitalize()}** – {definition.strip()}\n\n")
 
-def get_random_word(used_words):
-    with open(ENGLISH_WORD_LIST, "r") as f:
-        words = [w.strip().lower() for w in f if w.strip().isalpha() and len(w.strip()) > 4]
+def get_meaning(word):
+    synsets = wn.synsets(word)
+    if synsets:
+        definition = synsets[0].definition()
+        if definition and len(definition.split()) > 3:
+            return definition
+    return None
+
+def get_random_word(used_words, all_words):
     tries = 0
     while tries < 50:
-        word = random.choice(words)
+        word = random.choice(all_words)
         if word not in used_words:
-            try:
-                meanings = dictionary.meaning(word)
-                if meanings:
-                    for part in ["Noun", "Verb", "Adjective", "Adverb"]:
-                        if part in meanings:
-                            return word, meanings[part][0]
-            except Exception:
-                pass
+            definition = get_meaning(word)
+            if definition:
+                return word, definition
         tries += 1
     return None, None
 
 def main():
+    nltk.download("wordnet")
+    nltk.download("omw-1.4")
+
     used_words = load_used_words()
+
+    with open(WORD_LIST_FILE, "r") as f:
+        all_words = [w.strip().lower() for w in f if w.strip().isalpha() and len(w.strip()) > 4]
+
     collected = []
 
     print("🔍 Fetching 5 unique words...")
 
     while len(collected) < 5:
-        word, definition = get_random_word(used_words)
+        word, definition = get_random_word(used_words, all_words)
         if word and definition:
             print(f"✅ {word} - {definition}")
             collected.append((word, definition))
