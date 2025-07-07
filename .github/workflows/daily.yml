@@ -18,8 +18,9 @@ jobs:
 
       - name: 🔧 Set Git identity (needed before committing)
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "VanshSharmaSDE"
+          git config --global user.email "vansh123321@outlook.com"  # Must match your GitHub-verified email
+
 
       - name: 🐍 Set up Python
         uses: actions/setup-python@v5
