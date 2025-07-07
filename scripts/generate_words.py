@@ -8,7 +8,7 @@ dictionary = PyDictionary()
 USED_WORDS_FILE = ".used_words.txt"
 COUNTER_FILE = ".word_counter.txt"
 README_FILE = "README.md"
-ENGLISH_WORD_LIST = "/usr/share/dict/words"
+ENGLISH_WORD_LIST = "data/words.txt"
 
 def load_used_words():
     if os.path.exists(USED_WORDS_FILE):
