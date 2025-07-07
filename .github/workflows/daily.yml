@@ -31,8 +31,8 @@ jobs:
 
       - name: ✅ Commit and push
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          user.name = github-actions[bot]
+          user.email = 41898282+github-actions[bot]@users.noreply.github.com
           git add README.md .used_words.txt .word_counter.txt
           git commit -m "📘 Daily vocabulary update $(date '+%Y-%m-%d')" || echo "Nothing to commit"
           git push
