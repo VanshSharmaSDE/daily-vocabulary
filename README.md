@@ -12,3 +12,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 2. **Cruel** – (of persons or their actions) able or disposed to inflict pain or suffering
 
+3. **Razorback** – a mongrel hog with a thin body and long legs and a ridged back; a wild or semi-wild descendant of improved breeds; found chiefly in the southeastern United States
+
