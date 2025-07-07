@@ -1,35 +1,40 @@
-name: Daily Vocabulary Commit
+name: 📘 Daily Vocabulary Update
 
 on:
   schedule:
-    - cron: "30 3 * * *"   # ⏰ 9:00 AM IST daily
-  workflow_dispatch:        # 📌 Manual trigger for testing
+    - cron: "0 3 * * *"  # Runs daily at 9:00 AM IST (3:30 AM UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write  # ✅ Give write access to push changes
 
 jobs:
-  vocab-update:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - name: ⬇️ Checkout repo
+        uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v4
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.10"
+          python-version: '3.10'
 
-      - name: Install dependencies
+      - name: 📦 Install dependencies
         run: |
           pip install -r requirements.txt
           python -m nltk.downloader wordnet omw-1.4
 
-      - name: Run Vocabulary Script
+      - name: 🚀 Run word generator
         run: python scripts/generate_words.py
 
-      - name: Commit and Push
+      - name: ✅ Commit and push
         run: |
-          git config --global user.name "VanshSharmaSDE"
-          git config --global user.email "vansh123321@outlook.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md .used_words.txt .word_counter.txt
-          git commit -m "📘 Daily vocabulary update $(date '+%Y-%m-%d')" || echo "No changes to commit"
+          git commit -m "📘 Daily vocabulary update $(date '+%Y-%m-%d')" || echo "Nothing to commit"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
