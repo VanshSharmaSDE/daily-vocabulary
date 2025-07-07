@@ -20,3 +20,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 6. **Lavender** – any of various Old World aromatic shrubs or subshrubs with usually mauve or blue flowers; widely cultivated
 
+7. **Beveling** – cut a bevel on; shape to a bevel
+
