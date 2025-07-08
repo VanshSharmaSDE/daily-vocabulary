@@ -34,3 +34,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 11. **Allergens** – any substance that can cause an allergy
 
+12. **Coterminously** – in a coterminous manner
+
