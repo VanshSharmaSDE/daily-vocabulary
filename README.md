@@ -38,3 +38,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 13. **Mesmerize** – attract strongly, as if with a magnet
 
+14. **Gerrymander** – an act of gerrymandering (dividing a voting area so as to give your own party an unfair advantage)
+
