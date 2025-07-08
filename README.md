@@ -36,3 +36,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 12. **Coterminously** – in a coterminous manner
 
+13. **Mesmerize** – attract strongly, as if with a magnet
+
