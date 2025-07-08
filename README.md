@@ -28,3 +28,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 10. **Bloodstream** – the blood flowing through the circulatory system
 
+
+
+## 📅 2025-07-08
+
+11. **Allergens** – any substance that can cause an allergy
+
