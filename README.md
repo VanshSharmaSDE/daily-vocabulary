@@ -48,3 +48,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 16. **Philistinism** – a desire for wealth and material possessions with little interest in ethical or spiritual matters
 
+17. **Momentaneous** – lasting for a markedly brief time
+
