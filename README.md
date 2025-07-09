@@ -50,3 +50,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 17. **Momentaneous** – lasting for a markedly brief time
 
+18. **Defecator** – a person who defecates
+
