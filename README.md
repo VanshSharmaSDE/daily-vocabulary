@@ -52,3 +52,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 18. **Defecator** – a person who defecates
 
+19. **Compacts** – a small cosmetics case with a mirror; to be carried in a woman's purse
+
