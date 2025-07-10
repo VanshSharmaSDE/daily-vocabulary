@@ -56,3 +56,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 20. **Connatural** – similar in nature; - John Milton
 
+
+
+## 📅 2025-07-10
+
+21. **Bushbucks** – antelope with white markings like a harness and twisted horns
+
