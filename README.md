@@ -62,3 +62,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 21. **Bushbucks** – antelope with white markings like a harness and twisted horns
 
+22. **Bawling** – loud cries made while weeping
+
