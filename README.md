@@ -68,3 +68,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 24. **Recurrence** – happening again (especially at regular intervals)
 
+25. **Backache** – an ache localized in the back
+
