@@ -64,3 +64,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 22. **Bawling** – loud cries made while weeping
 
+23. **Splinters** – wood in small pieces or splinters
+
