@@ -66,3 +66,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 23. **Splinters** – wood in small pieces or splinters
 
+24. **Recurrence** – happening again (especially at regular intervals)
+
