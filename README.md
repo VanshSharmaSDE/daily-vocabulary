@@ -82,3 +82,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 29. **Glassworkers** – someone who cuts flat glass to size
 
+30. **Trenchantly** – in a vigorous and effective manner
+
