@@ -76,3 +76,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 26. **Puffbird** – brownish tropical American bird having a large head with fluffed out feathers
 
+27. **Crisscross** – a marking that consists of lines that cross each other
+
