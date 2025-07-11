@@ -78,3 +78,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 27. **Crisscross** – a marking that consists of lines that cross each other
 
+28. **Icebreaker** – a ship with a reinforced bow to break up ice and keep channels open for navigation
+
