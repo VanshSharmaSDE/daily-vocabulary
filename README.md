@@ -70,3 +70,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 25. **Backache** – an ache localized in the back
 
+
+
+## 📅 2025-07-11
+
+26. **Puffbird** – brownish tropical American bird having a large head with fluffed out feathers
+
