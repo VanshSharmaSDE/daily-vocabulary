@@ -80,3 +80,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 28. **Icebreaker** – a ship with a reinforced bow to break up ice and keep channels open for navigation
 
+29. **Glassworkers** – someone who cuts flat glass to size
+
