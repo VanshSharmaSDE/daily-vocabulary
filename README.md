@@ -90,3 +90,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 31. **Squares** – (geometry) a plane rectangle with four equal sides and four right angles; a four-sided regular polygon
 
+32. **Achondroplastic** – of or relating to achondroplasia
+
