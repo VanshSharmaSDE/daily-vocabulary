@@ -96,3 +96,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 34. **Chlorofluorocarbon** – a fluorocarbon with chlorine; formerly used as a refrigerant and as a propellant in aerosol cans
 
+35. **Vitriolically** – in a caustic vitriolic manner
+
