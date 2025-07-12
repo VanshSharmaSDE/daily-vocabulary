@@ -92,3 +92,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 32. **Achondroplastic** – of or relating to achondroplasia
 
+33. **Leveraging** – investing with borrowed money as a way to amplify potential gains (at the risk of greater losses)
+
