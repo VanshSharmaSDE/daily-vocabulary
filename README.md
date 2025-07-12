@@ -94,3 +94,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 33. **Leveraging** – investing with borrowed money as a way to amplify potential gains (at the risk of greater losses)
 
+34. **Chlorofluorocarbon** – a fluorocarbon with chlorine; formerly used as a refrigerant and as a propellant in aerosol cans
+
