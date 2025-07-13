@@ -108,3 +108,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 38. **Witch** – a female sorcerer or magician
 
+39. **Decompose** – separate (substances) into constituent elements or parts
+
