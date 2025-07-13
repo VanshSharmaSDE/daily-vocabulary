@@ -104,3 +104,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 36. **Misapplication** – wrong use or application
 
+37. **Ohmages** – the ohmic resistance of a conductor
+
