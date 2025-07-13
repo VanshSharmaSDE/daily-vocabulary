@@ -110,3 +110,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 39. **Decompose** – separate (substances) into constituent elements or parts
 
+40. **Stonehenge** – an ancient megalithic monument in southern England; probably used for ritual purposes
+
