@@ -98,3 +98,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 35. **Vitriolically** – in a caustic vitriolic manner
 
+
+
+## 📅 2025-07-13
+
+36. **Misapplication** – wrong use or application
+
