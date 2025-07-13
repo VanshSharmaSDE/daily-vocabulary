@@ -106,3 +106,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 37. **Ohmages** – the ohmic resistance of a conductor
 
+38. **Witch** – a female sorcerer or magician
+
