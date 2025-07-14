@@ -122,3 +122,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 43. **Cytolysin** – a substance that partly or completely destroys animal cells
 
+44. **Beefiest** – muscular and heavily built
+
