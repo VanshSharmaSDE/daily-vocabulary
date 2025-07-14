@@ -124,3 +124,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 44. **Beefiest** – muscular and heavily built
 
+45. **Dynasty** – a sequence of powerful leaders in the same family
+
