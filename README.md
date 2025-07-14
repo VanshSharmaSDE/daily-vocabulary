@@ -120,3 +120,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 42. **Pedicab** – a tricycle (usually propelled by pedalling); used in the Orient for transporting passengers for hire
 
+43. **Cytolysin** – a substance that partly or completely destroys animal cells
+
