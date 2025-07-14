@@ -112,3 +112,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 40. **Stonehenge** – an ancient megalithic monument in southern England; probably used for ritual purposes
 
+
+
+## 📅 2025-07-14
+
+41. **Aeneid** – an epic in Latin by Virgil; tells the adventures of Aeneas after the Trojan War; provides an illustrious historical background for the Roman Empire
+
