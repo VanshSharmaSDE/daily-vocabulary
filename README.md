@@ -118,3 +118,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 41. **Aeneid** – an epic in Latin by Virgil; tells the adventures of Aeneas after the Trojan War; provides an illustrious historical background for the Roman Empire
 
+42. **Pedicab** – a tricycle (usually propelled by pedalling); used in the Orient for transporting passengers for hire
+
