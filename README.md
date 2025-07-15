@@ -132,3 +132,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 46. **Ventilating** – expose to cool or cold air so as to cool or freshen
 
+47. **Hillsides** – the side or slope of a hill
+
