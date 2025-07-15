@@ -138,3 +138,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 49. **Harvestman** – spiderlike arachnid with a small rounded body and very long thin legs
 
+50. **Ropeways** – a conveyance that transports passengers or freight in carriers suspended from cables and supported by a series of towers
+
