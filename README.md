@@ -126,3 +126,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 45. **Dynasty** – a sequence of powerful leaders in the same family
 
+
+
+## 📅 2025-07-15
+
+46. **Ventilating** – expose to cool or cold air so as to cool or freshen
+
