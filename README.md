@@ -136,3 +136,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 48. **Carpenteria** – California evergreen shrub having glossy opposite leaves and terminal clusters of a few fragrant white flowers
 
+49. **Harvestman** – spiderlike arachnid with a small rounded body and very long thin legs
+
