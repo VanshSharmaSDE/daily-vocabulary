@@ -134,3 +134,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 47. **Hillsides** – the side or slope of a hill
 
+48. **Carpenteria** – California evergreen shrub having glossy opposite leaves and terminal clusters of a few fragrant white flowers
+
