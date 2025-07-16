@@ -152,3 +152,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 54. **Ragweeds** – widespread European weed having yellow daisylike flowers; sometimes an obnoxious weed and toxic to cattle if consumed in quantity
 
+55. **Clarinetist** – a musician who plays the clarinet
+
