@@ -146,3 +146,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 51. **Etching** – an impression made from an etched plate
 
+52. **Alpinism** – mountain climbing (not restricted to the Alps)
+
