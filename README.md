@@ -148,3 +148,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 52. **Alpinism** – mountain climbing (not restricted to the Alps)
 
+53. **Razoring** – shave with a razor
+
