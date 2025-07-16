@@ -140,3 +140,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 50. **Ropeways** – a conveyance that transports passengers or freight in carriers suspended from cables and supported by a series of towers
 
+
+
+## 📅 2025-07-16
+
+51. **Etching** – an impression made from an etched plate
+
