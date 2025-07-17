@@ -162,3 +162,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 57. **Butterscotch** – a hard brittle candy made with butter and brown sugar
 
+58. **Finnan** – haddock usually baked but sometimes broiled with lots of butter
+
