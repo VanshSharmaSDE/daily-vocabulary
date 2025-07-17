@@ -164,3 +164,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 58. **Finnan** – haddock usually baked but sometimes broiled with lots of butter
 
+59. **Teres** – either of two muscles in the shoulder region that move the shoulders and arms
+
