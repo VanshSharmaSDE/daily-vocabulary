@@ -160,3 +160,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 56. **Chlorosis** – iron deficiency anemia in young women; characterized by weakness and menstrual disturbances and a green color to the skin
 
+57. **Butterscotch** – a hard brittle candy made with butter and brown sugar
+
