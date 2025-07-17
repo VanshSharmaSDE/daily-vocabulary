@@ -154,3 +154,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 55. **Clarinetist** – a musician who plays the clarinet
 
+
+
+## 📅 2025-07-17
+
+56. **Chlorosis** – iron deficiency anemia in young women; characterized by weakness and menstrual disturbances and a green color to the skin
+
