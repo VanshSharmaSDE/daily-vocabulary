@@ -178,3 +178,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 63. **Forename** – the name that precedes the surname
 
+64. **Girasols** – an opal with flaming orange and yellow and red colors
+
