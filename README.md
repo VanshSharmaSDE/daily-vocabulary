@@ -180,3 +180,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 64. **Girasols** – an opal with flaming orange and yellow and red colors
 
+65. **Invasive** – relating to a technique in which the body is entered by puncture or incision
+
