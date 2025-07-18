@@ -168,3 +168,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 60. **Homogenous** – all of the same or similar kind or nature
 
+
+
+## 📅 2025-07-18
+
+61. **Resplendent** – having great beauty and splendor
+
