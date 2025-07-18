@@ -174,3 +174,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 61. **Resplendent** – having great beauty and splendor
 
+62. **Albee** – United States dramatist (1928-)
+
