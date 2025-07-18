@@ -176,3 +176,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 62. **Albee** – United States dramatist (1928-)
 
+63. **Forename** – the name that precedes the surname
+
