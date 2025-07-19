@@ -188,3 +188,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 66. **Myositis** – inflammation of muscle tissue
 
+67. **Balkanized** – divide a territory into small, hostile states
+
