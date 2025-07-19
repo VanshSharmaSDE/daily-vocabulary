@@ -194,3 +194,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 69. **Bossed** – raise in a relief
 
+70. **Pyrexia** – a rise in the temperature of the body; frequently a symptom of infection
+
