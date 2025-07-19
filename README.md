@@ -192,3 +192,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 68. **Gowning** – dress in a gown
 
+69. **Bossed** – raise in a relief
+
