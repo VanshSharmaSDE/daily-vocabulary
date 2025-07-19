@@ -182,3 +182,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 65. **Invasive** – relating to a technique in which the body is entered by puncture or incision
 
+
+
+## 📅 2025-07-19
+
+66. **Myositis** – inflammation of muscle tissue
+
