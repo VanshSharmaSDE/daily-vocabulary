@@ -190,3 +190,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 67. **Balkanized** – divide a territory into small, hostile states
 
+68. **Gowning** – dress in a gown
+
