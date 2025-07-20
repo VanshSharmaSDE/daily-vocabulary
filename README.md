@@ -208,3 +208,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 74. **Romanced** – make amorous advances towards
 
+75. **Vitiates** – corrupt morally or by intemperance or sensuality
+
