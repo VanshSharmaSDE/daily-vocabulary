@@ -204,3 +204,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 72. **Henbane** – poisonous fetid Old World herb having sticky hairy leaves and yellow-brown flowers; yields hyoscyamine and scopolamine
 
+73. **Invisibility** – the quality of not being perceivable by the eye
+
