@@ -206,3 +206,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 73. **Invisibility** – the quality of not being perceivable by the eye
 
+74. **Romanced** – make amorous advances towards
+
