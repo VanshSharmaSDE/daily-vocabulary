@@ -196,3 +196,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 70. **Pyrexia** – a rise in the temperature of the body; frequently a symptom of infection
 
+
+
+## 📅 2025-07-20
+
+71. **Amygdala** – an almond-shaped neural structure in the anterior part of the temporal lobe of the cerebrum; intimately connected with the hypothalamus and the hippocampus and the cingulate gyrus; as part of the limbic system it plays an important role in motivation and emotional behavior
+
