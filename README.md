@@ -216,3 +216,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 76. **Gramma** – pasture grass of plains of South America and western North America
 
+77. **Bedazzled** – to cause someone to lose clear vision, especially from intense light
+
