@@ -210,3 +210,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 75. **Vitiates** – corrupt morally or by intemperance or sensuality
 
+
+
+## 📅 2025-07-21
+
+76. **Gramma** – pasture grass of plains of South America and western North America
+
