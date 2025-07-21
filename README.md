@@ -218,3 +218,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 77. **Bedazzled** – to cause someone to lose clear vision, especially from intense light
 
+78. **Surcharge** – an additional charge (as for items previously omitted or as a penalty for failure to exercise common caution or common skill)
+
