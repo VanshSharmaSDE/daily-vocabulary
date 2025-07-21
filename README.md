@@ -220,3 +220,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 78. **Surcharge** – an additional charge (as for items previously omitted or as a penalty for failure to exercise common caution or common skill)
 
+79. **Unboxed** – remove from a box
+
