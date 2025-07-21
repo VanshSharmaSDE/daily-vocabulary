@@ -222,3 +222,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 79. **Unboxed** – remove from a box
 
+80. **Citizen** – a native or naturalized member of a state or other political community
+
