@@ -230,3 +230,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 81. **Proffer** – a proposal offered for acceptance or rejection
 
+82. **Libeled** – print slanderous statements against
+
