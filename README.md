@@ -234,3 +234,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 83. **Unarm** – take away the weapons from; render harmless
 
+84. **Smelt** – small cold-water silvery fish; migrate between salt and fresh water
+

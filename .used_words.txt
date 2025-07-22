@@ -82,3 +82,4 @@ citizen
 proffer
 libeled
 unarm
+smelt
