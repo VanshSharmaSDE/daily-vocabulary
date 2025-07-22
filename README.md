@@ -232,3 +232,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 82. **Libeled** – print slanderous statements against
 
+83. **Unarm** – take away the weapons from; render harmless
+
