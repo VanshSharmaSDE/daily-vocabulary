@@ -250,3 +250,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 89. **Extension** – a mutually agreed delay in the date set for the completion of a job or payment of a debt
 
+90. **Basset** – smooth-haired breed of hound with short legs and long ears
+
