@@ -246,3 +246,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 87. **Underclassman** – an undergraduate who is not yet a senior
 
+88. **Aminoaciduria** – abnormal presence of amino acids in the urine; usually a symptom of metabolic defects
+
