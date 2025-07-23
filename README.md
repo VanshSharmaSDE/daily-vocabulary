@@ -238,3 +238,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 85. **Moulded** – form in clay, wax, etc
 
+
+
+## 📅 2025-07-23
+
+86. **Bursted** – come open suddenly and violently, as if from internal pressure
+
