@@ -244,3 +244,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 86. **Bursted** – come open suddenly and violently, as if from internal pressure
 
+87. **Underclassman** – an undergraduate who is not yet a senior
+
