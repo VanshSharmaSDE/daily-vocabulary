@@ -248,3 +248,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 88. **Aminoaciduria** – abnormal presence of amino acids in the urine; usually a symptom of metabolic defects
 
+89. **Extension** – a mutually agreed delay in the date set for the completion of a job or payment of a debt
+
