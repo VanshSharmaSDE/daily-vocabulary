@@ -264,3 +264,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 94. **Barbet** – small brightly colored stout-billed tropical bird having short weak wings
 
+95. **Attitudinise** – assume certain affected attitudes
+
