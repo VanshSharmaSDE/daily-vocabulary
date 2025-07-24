@@ -260,3 +260,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 92. **Fermentations** – a state of agitation or turbulent change or development
 
+93. **Chopstick** – one of a pair of slender sticks used as oriental tableware to eat food with
+
