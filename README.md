@@ -258,3 +258,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 91. **Handspring** – an acrobatic feat in which a person goes from a standing position to a handstand and back again
 
+92. **Fermentations** – a state of agitation or turbulent change or development
+
