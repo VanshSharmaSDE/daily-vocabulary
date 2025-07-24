@@ -252,3 +252,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 90. **Basset** – smooth-haired breed of hound with short legs and long ears
 
+
+
+## 📅 2025-07-24
+
+91. **Handspring** – an acrobatic feat in which a person goes from a standing position to a handstand and back again
+
