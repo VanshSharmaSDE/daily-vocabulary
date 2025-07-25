@@ -278,3 +278,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 99. **Penalizing** – impose a penalty on; inflict punishment on
 
+100. **Solfeggio** – singing using solfa syllables to denote the notes of the scale of C major
+
