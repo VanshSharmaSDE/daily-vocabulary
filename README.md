@@ -266,3 +266,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 95. **Attitudinise** – assume certain affected attitudes
 
+
+
+## 📅 2025-07-25
+
+96. **Fictitiously** – in a false manner intended to mislead
+
