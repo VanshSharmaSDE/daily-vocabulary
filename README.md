@@ -276,3 +276,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 98. **Schoolyard** – the yard associated with a school
 
+99. **Penalizing** – impose a penalty on; inflict punishment on
+
