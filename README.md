@@ -272,3 +272,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 96. **Fictitiously** – in a false manner intended to mislead
 
+97. **Brahms** – German composer who developed the romantic style of both lyrical and classical music (1833-1897)
+
