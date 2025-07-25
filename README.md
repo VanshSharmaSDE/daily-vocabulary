@@ -274,3 +274,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 97. **Brahms** – German composer who developed the romantic style of both lyrical and classical music (1833-1897)
 
+98. **Schoolyard** – the yard associated with a school
+
