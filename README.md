@@ -288,3 +288,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 102. **Psychodidae** – very small two-winged flies with hairy wings that develop in moss and damp vegetable matter: sand flies
 
+103. **Grooming** – activity leading to skilled behavior
+
