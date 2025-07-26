@@ -292,3 +292,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 104. **Gurgled** – flow in an irregular current with a bubbling noise
 
+105. **Pauline** – relating to Paul the Apostle or his doctrines
+
