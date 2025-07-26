@@ -280,3 +280,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 100. **Solfeggio** – singing using solfa syllables to denote the notes of the scale of C major
 
+
+
+## 📅 2025-07-26
+
+101. **Initialized** – assign an initial value to a computer program
+
