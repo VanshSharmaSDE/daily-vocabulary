@@ -286,3 +286,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 101. **Initialized** – assign an initial value to a computer program
 
+102. **Psychodidae** – very small two-winged flies with hairy wings that develop in moss and damp vegetable matter: sand flies
+
