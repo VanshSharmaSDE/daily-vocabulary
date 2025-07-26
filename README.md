@@ -290,3 +290,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 103. **Grooming** – activity leading to skilled behavior
 
+104. **Gurgled** – flow in an irregular current with a bubbling noise
+
