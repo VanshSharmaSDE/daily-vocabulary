@@ -304,3 +304,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 108. **Grummet** – fastener consisting of a metal ring for lining a small hole to permit the attachment of cords or lines
 
+109. **Tipples** – a serving of drink (usually alcoholic) drawn from a keg
+
