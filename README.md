@@ -294,3 +294,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 105. **Pauline** – relating to Paul the Apostle or his doctrines
 
+
+
+## 📅 2025-07-27
+
+106. **Sissing** – express or utter with a hiss
+
