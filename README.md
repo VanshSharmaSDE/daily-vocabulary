@@ -302,3 +302,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 107. **Cooled** – make cool or cooler
 
+108. **Grummet** – fastener consisting of a metal ring for lining a small hole to permit the attachment of cords or lines
+
