@@ -300,3 +300,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 106. **Sissing** – express or utter with a hiss
 
+107. **Cooled** – make cool or cooler
+
