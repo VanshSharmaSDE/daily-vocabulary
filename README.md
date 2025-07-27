@@ -306,3 +306,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 109. **Tipples** – a serving of drink (usually alcoholic) drawn from a keg
 
+110. **Pickpocket** – a thief who steals from the pockets or purses of others in public places
+
