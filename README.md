@@ -314,3 +314,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 111. **Gable** – the vertical triangular wall between the sloping ends of gable roof
 
+112. **Vampires** – (folklore) a corpse that rises at night to drink the blood of the living
+
