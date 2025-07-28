@@ -316,3 +316,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 112. **Vampires** – (folklore) a corpse that rises at night to drink the blood of the living
 
+113. **Dancers** – a performer who dances professionally
+
