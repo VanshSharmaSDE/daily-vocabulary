@@ -112,3 +112,4 @@ pickpocket
 gable
 vampires
 dancers
+fortified

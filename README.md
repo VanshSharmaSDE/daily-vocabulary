@@ -318,3 +318,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 113. **Dancers** – a performer who dances professionally
 
+114. **Fortified** – make strong or stronger
+
