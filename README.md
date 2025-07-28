@@ -320,3 +320,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 114. **Fortified** – make strong or stronger
 
+115. **Moralists** – a philosopher who specializes in morals and moral problems
+
