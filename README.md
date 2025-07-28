@@ -308,3 +308,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 110. **Pickpocket** – a thief who steals from the pockets or purses of others in public places
 
+
+
+## 📅 2025-07-28
+
+111. **Gable** – the vertical triangular wall between the sloping ends of gable roof
+
