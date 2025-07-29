@@ -330,3 +330,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 117. **Dwelling** – housing that someone is living in
 
+118. **Beriberis** – avitaminosis caused by lack of thiamine (vitamin B1)
+
