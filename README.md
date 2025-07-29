@@ -334,3 +334,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 119. **Accordionist** – a musician who plays the accordion
 
+120. **Healthier** – improved in health or physical condition
+
