@@ -322,3 +322,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 115. **Moralists** – a philosopher who specializes in morals and moral problems
 
+
+
+## 📅 2025-07-29
+
+116. **Dromedary** – one-humped camel of the hot deserts of northern Africa and southwestern Asia
+
