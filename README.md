@@ -332,3 +332,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 118. **Beriberis** – avitaminosis caused by lack of thiamine (vitamin B1)
 
+119. **Accordionist** – a musician who plays the accordion
+
