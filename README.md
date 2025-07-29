@@ -328,3 +328,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 116. **Dromedary** – one-humped camel of the hot deserts of northern Africa and southwestern Asia
 
+117. **Dwelling** – housing that someone is living in
+
