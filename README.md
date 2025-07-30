@@ -346,3 +346,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 123. **Comelier** – according with custom or propriety
 
+124. **Discontinuation** – the act of discontinuing or breaking off; an interruption (temporary or permanent)
+
