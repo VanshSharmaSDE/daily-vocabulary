@@ -344,3 +344,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 122. **Mangily** – in a mangy manner
 
+123. **Comelier** – according with custom or propriety
+
