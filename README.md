@@ -336,3 +336,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 120. **Healthier** – improved in health or physical condition
 
+
+
+## 📅 2025-07-30
+
+121. **Transuded** – release (a liquid) in drops or small quantities
+
