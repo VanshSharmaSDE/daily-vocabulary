@@ -348,3 +348,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 124. **Discontinuation** – the act of discontinuing or breaking off; an interruption (temporary or permanent)
 
+125. **Desolater** – providing no shelter or sustenance
+
