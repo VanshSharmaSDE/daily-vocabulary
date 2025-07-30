@@ -342,3 +342,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 121. **Transuded** – release (a liquid) in drops or small quantities
 
+122. **Mangily** – in a mangy manner
+
