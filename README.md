@@ -358,3 +358,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 127. **Rates** – a local tax on property (usually used in the plural)
 
+128. **Hierarchies** – a series of ordered groupings of people or things within a system
+
