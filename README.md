@@ -360,3 +360,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 128. **Hierarchies** – a series of ordered groupings of people or things within a system
 
+129. **Sulphates** – a salt or ester of sulphuric acid
+
