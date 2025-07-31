@@ -350,3 +350,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 125. **Desolater** – providing no shelter or sustenance
 
+
+
+## 📅 2025-07-31
+
+126. **Drachmae** – a unit of apothecary weight equal to an eighth of an ounce or to 60 grains
+
