@@ -356,3 +356,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 126. **Drachmae** – a unit of apothecary weight equal to an eighth of an ounce or to 60 grains
 
+127. **Rates** – a local tax on property (usually used in the plural)
+
