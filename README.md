@@ -362,3 +362,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 129. **Sulphates** – a salt or ester of sulphuric acid
 
+130. **Secrete** – generate and separate from cells or bodily fluids
+
