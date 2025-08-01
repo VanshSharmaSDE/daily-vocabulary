@@ -374,3 +374,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 133. **Narrowing** – an instance of becoming narrow
 
+134. **Microscope** – magnifier of the image of small objects
+
