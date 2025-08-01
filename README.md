@@ -376,3 +376,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 134. **Microscope** – magnifier of the image of small objects
 
+135. **Vangueria** – tropical African and Asiatic trees and shrubs having one-seeded fruit
+
