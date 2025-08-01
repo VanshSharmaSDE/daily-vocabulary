@@ -370,3 +370,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 131. **Wiser** – having or prompted by wisdom or discernment
 
+132. **Paellas** – saffron-flavored dish made of rice with shellfish and chicken
+
