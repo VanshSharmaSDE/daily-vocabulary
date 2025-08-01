@@ -364,3 +364,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 130. **Secrete** – generate and separate from cells or bodily fluids
 
+
+
+## 📅 2025-08-01
+
+131. **Wiser** – having or prompted by wisdom or discernment
+
