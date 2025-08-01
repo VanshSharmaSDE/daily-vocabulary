@@ -372,3 +372,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 132. **Paellas** – saffron-flavored dish made of rice with shellfish and chicken
 
+133. **Narrowing** – an instance of becoming narrow
+
