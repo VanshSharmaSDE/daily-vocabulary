@@ -388,3 +388,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 138. **Porkpie** – man's hat with a low, flat crown and a snap brim
 
+139. **Accipiter** – type genus of the family Accipitridae
+
