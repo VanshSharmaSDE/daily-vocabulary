@@ -378,3 +378,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 135. **Vangueria** – tropical African and Asiatic trees and shrubs having one-seeded fruit
 
+
+
+## 📅 2025-08-02
+
+136. **Anatomising** – dissect in order to analyze
+
