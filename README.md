@@ -384,3 +384,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 136. **Anatomising** – dissect in order to analyze
 
+137. **Adrenocorticotrophic** – stimulating or acting on the adrenal cortex
+
