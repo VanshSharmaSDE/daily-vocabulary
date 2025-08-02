@@ -390,3 +390,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 139. **Accipiter** – type genus of the family Accipitridae
 
+140. **Streaks** – an unbroken series of events
+
