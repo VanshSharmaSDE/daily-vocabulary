@@ -400,3 +400,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 142. **Pharmacopeia** – (pharmacology) a book containing a compilation of pharmaceutical products with their formulas and methods of preparation
 
+143. **Buyout** – acquisition of a company by purchasing a controlling percentage of its stock
+
