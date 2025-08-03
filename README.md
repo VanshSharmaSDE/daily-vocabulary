@@ -404,3 +404,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 144. **Taxidermist** – a craftsman who stuffs and mounts the skins of animals for display
 
+145. **Foxtrot** – a ballroom dance in quadruple time; combines short and long and fast and slow steps fixed sequences
+
