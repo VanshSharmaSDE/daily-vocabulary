@@ -398,3 +398,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 141. **Nestorian** – a follower of Nestorius
 
+142. **Pharmacopeia** – (pharmacology) a book containing a compilation of pharmaceutical products with their formulas and methods of preparation
+
