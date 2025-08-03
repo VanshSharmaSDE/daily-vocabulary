@@ -392,3 +392,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 140. **Streaks** – an unbroken series of events
 
+
+
+## 📅 2025-08-03
+
+141. **Nestorian** – a follower of Nestorius
+
