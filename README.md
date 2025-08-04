@@ -414,3 +414,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 147. **Twiddles** – a series of small (usually idle) twists or turns
 
+148. **Causality** – the relation between causes and effects
+
