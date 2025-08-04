@@ -418,3 +418,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 149. **Melanoblast** – an epidermal cell that is a precursor of a melanocyte
 
+150. **Unqualifiedly** – without qualification or limitation
+
