@@ -412,3 +412,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 146. **Ebionite** – a member of a group of Jews who (during the early history of the Christian Church) accepted Jesus as the Messiah; they accepted the Gospel According to Matthew but rejected the Epistles of St. Paul and continued to follow Jewish law and celebrate Jewish holidays; they were later declared heretic by the Church of Rome
 
+147. **Twiddles** – a series of small (usually idle) twists or turns
+
