@@ -406,3 +406,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 145. **Foxtrot** – a ballroom dance in quadruple time; combines short and long and fast and slow steps fixed sequences
 
+
+
+## 📅 2025-08-04
+
+146. **Ebionite** – a member of a group of Jews who (during the early history of the Christian Church) accepted Jesus as the Messiah; they accepted the Gospel According to Matthew but rejected the Epistles of St. Paul and continued to follow Jewish law and celebrate Jewish holidays; they were later declared heretic by the Church of Rome
+
