@@ -420,3 +420,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 150. **Unqualifiedly** – without qualification or limitation
 
+
+
+## 📅 2025-08-05
+
+151. **Otiose** – serving no useful purpose; having no excuse for being
+
