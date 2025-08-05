@@ -432,3 +432,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 154. **Institution** – an organization founded and united for a specific purpose
 
+155. **Germinated** – produce buds, branches, or germinate
+
