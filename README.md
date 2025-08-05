@@ -428,3 +428,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 152. **Palestinians** – a descendant of the Arabs who inhabited Palestine
 
+153. **Disappearances** – the act of leaving secretly or without explanation
+
