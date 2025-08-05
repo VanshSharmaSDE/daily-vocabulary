@@ -426,3 +426,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 151. **Otiose** – serving no useful purpose; having no excuse for being
 
+152. **Palestinians** – a descendant of the Arabs who inhabited Palestine
+
