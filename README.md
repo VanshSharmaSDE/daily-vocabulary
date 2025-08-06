@@ -442,3 +442,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 157. **Macerated** – separate into constituents by soaking
 
+158. **Gavialis** – type genus of the Gavialidae
+
