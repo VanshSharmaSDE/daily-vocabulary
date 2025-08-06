@@ -444,3 +444,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 158. **Gavialis** – type genus of the Gavialidae
 
+159. **Basined** – enclosed in a basin
+
