@@ -434,3 +434,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 155. **Germinated** – produce buds, branches, or germinate
 
+
+
+## 📅 2025-08-06
+
+156. **Netted** – make as a net profit
+
