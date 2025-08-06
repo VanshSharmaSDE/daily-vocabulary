@@ -440,3 +440,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 156. **Netted** – make as a net profit
 
+157. **Macerated** – separate into constituents by soaking
+
