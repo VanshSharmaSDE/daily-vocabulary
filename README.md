@@ -446,3 +446,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 159. **Basined** – enclosed in a basin
 
+160. **Restructures** – construct or form anew or provide with a new structure
+
