@@ -454,3 +454,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 161. **Urates** – a salt of uric acid
 
+162. **Environment** – the totality of surrounding conditions
+
