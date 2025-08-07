@@ -460,3 +460,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 164. **Obnoxious** – causing disapproval or protest
 
+165. **Jazzed** – play something in the style of jazz
+
