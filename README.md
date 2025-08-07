@@ -448,3 +448,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 160. **Restructures** – construct or form anew or provide with a new structure
 
+
+
+## 📅 2025-08-07
+
+161. **Urates** – a salt of uric acid
+
