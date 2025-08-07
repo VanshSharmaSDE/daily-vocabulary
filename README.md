@@ -458,3 +458,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 163. **Entozoans** – any of various parasites that live in the internal organs of animals (especially intestinal worms)
 
+164. **Obnoxious** – causing disapproval or protest
+
