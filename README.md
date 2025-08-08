@@ -462,3 +462,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 165. **Jazzed** – play something in the style of jazz
 
+
+
+## 📅 2025-08-08
+
+166. **Copywriters** – a person employed to write advertising or publicity copy
+
