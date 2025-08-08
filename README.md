@@ -470,3 +470,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 167. **Matchboxes** – a box for holding matches
 
+168. **Haphazard** – dependent upon or characterized by chance
+
