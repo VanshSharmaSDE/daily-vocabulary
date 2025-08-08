@@ -474,3 +474,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 169. **Parallelepipedon** – a prism whose bases are parallelograms
 
+170. **Sagina** – small low-growing annual or perennial herbs of temperate and cool regions
+
