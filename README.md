@@ -476,3 +476,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 170. **Sagina** – small low-growing annual or perennial herbs of temperate and cool regions
 
+
+
+## 📅 2025-08-09
+
+171. **Sciurus** – type genus of the Sciuridae; typical moderate-sized arboreal squirrels
+

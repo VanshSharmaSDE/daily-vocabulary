@@ -169,3 +169,4 @@ matchboxes
 haphazard
 parallelepipedon
 sagina
+sciurus
