@@ -488,3 +488,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 174. **Tuners** – someone who tunes pianos
 
+175. **Laminates** – a sheet of material made by bonding two or more sheets or layers
+
