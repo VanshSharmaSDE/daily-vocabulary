@@ -484,3 +484,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 172. **Professionalisation** – the social process whereby people come to engage in an activity for pay or as a means of livelihood
 
+173. **Ethnography** – the branch of anthropology that provides scientific description of individual human societies
+
