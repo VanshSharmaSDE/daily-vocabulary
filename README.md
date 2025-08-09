@@ -482,3 +482,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 171. **Sciurus** – type genus of the Sciuridae; typical moderate-sized arboreal squirrels
 
+172. **Professionalisation** – the social process whereby people come to engage in an activity for pay or as a means of livelihood
+
