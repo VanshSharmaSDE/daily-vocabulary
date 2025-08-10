@@ -496,3 +496,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 176. **Woodlands** – land that is covered with trees and shrubs
 
+177. **Sarpedon** – (Greek mythology) a son of Zeus who became king of Lycia; fought on behalf of the Trojans in the Trojan War and was killed by Patroclus
+
