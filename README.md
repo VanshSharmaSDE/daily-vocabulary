@@ -500,3 +500,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 178. **Kaiser** – the title of the Holy Roman Emperors or the emperors of Austria or of Germany until 1918
 
+179. **Philanderers** – a man who likes many women and has short sexual relationships with them
+
