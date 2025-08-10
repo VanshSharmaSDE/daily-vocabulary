@@ -498,3 +498,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 177. **Sarpedon** – (Greek mythology) a son of Zeus who became king of Lycia; fought on behalf of the Trojans in the Trojan War and was killed by Patroclus
 
+178. **Kaiser** – the title of the Holy Roman Emperors or the emperors of Austria or of Germany until 1918
+
