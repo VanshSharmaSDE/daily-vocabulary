@@ -502,3 +502,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 179. **Philanderers** – a man who likes many women and has short sexual relationships with them
 
+180. **Frigga** – (Norse mythology) goddess of the heavens and married love; wife of Odin
+
