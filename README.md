@@ -516,3 +516,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 184. **Manufacture** – the organized action of making of goods and services for sale
 
+185. **Demonism** – a belief in and reverence for devils (especially Satan)
+
