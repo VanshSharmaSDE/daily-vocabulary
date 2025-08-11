@@ -514,3 +514,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 183. **Pelew** – a chain of more than 200 islands about 400 miles long in the western central Pacific Ocean
 
+184. **Manufacture** – the organized action of making of goods and services for sale
+

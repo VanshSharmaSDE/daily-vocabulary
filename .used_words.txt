@@ -182,3 +182,4 @@ frigga
 violations
 advertiser
 pelew
+manufacture
