@@ -504,3 +504,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 180. **Frigga** – (Norse mythology) goddess of the heavens and married love; wife of Odin
 
+
+
+## 📅 2025-08-11
+
+181. **Violations** – a crime less serious than a felony
+
