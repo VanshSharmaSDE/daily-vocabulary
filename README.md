@@ -510,3 +510,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 181. **Violations** – a crime less serious than a felony
 
+182. **Advertiser** – someone whose business is advertising
+
