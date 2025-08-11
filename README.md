@@ -512,3 +512,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 182. **Advertiser** – someone whose business is advertising
 
+183. **Pelew** – a chain of more than 200 islands about 400 miles long in the western central Pacific Ocean
+
