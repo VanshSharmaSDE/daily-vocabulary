@@ -530,3 +530,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 189. **Blackguardly** – lacking principles or scruples; ;  - W.M. Thackaray
 
+190. **Holocaust** – an act of mass destruction and loss of life (especially in war or by fire)
+
