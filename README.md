@@ -524,3 +524,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 186. **Hebdomad** – any period of seven consecutive days
 
+187. **Adnouns** – an adjective used as a noun
+
