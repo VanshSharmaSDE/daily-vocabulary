@@ -526,3 +526,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 187. **Adnouns** – an adjective used as a noun
 
+188. **Public** – people in general considered as a whole
+
