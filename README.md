@@ -518,3 +518,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 185. **Demonism** – a belief in and reverence for devils (especially Satan)
 
+
+
+## 📅 2025-08-12
+
+186. **Hebdomad** – any period of seven consecutive days
+
