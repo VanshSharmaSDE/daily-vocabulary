@@ -528,3 +528,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 188. **Public** – people in general considered as a whole
 
+189. **Blackguardly** – lacking principles or scruples; ;  - W.M. Thackaray
+
