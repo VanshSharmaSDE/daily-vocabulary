@@ -544,3 +544,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 194. **Rollover** – the act of changing the institution that invests your pension plan without incurring a tax penalty
 
+195. **Coercion** – the act of compelling by force of authority
+
