@@ -542,3 +542,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 193. **Derisive** – abusing vocally; expressing contempt or ridicule
 
+194. **Rollover** – the act of changing the institution that invests your pension plan without incurring a tax penalty
+
