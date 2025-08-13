@@ -538,3 +538,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 191. **Platycerium** – often epiphytic tropical Old World ferns
 
+192. **Stauncher** – firm and dependable especially in loyalty
+
