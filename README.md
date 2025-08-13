@@ -532,3 +532,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 190. **Holocaust** – an act of mass destruction and loss of life (especially in war or by fire)
 
+
+
+## 📅 2025-08-13
+
+191. **Platycerium** – often epiphytic tropical Old World ferns
+
