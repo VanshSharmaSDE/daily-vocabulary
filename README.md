@@ -540,3 +540,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 192. **Stauncher** – firm and dependable especially in loyalty
 
+193. **Derisive** – abusing vocally; expressing contempt or ridicule
+
