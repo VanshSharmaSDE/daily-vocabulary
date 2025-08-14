@@ -556,3 +556,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 198. **Eludes** – escape, either physically or mentally
 
+199. **Nematode** – unsegmented worms with elongated rounded body pointed at both ends; mostly free-living but some are parasitic
+
