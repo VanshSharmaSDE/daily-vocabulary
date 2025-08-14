@@ -546,3 +546,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 195. **Coercion** – the act of compelling by force of authority
 
+
+
+## 📅 2025-08-14
+
+196. **Camails** – a medieval hood of mail suspended from a basinet to protect the head and neck
+
