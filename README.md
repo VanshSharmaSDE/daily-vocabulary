@@ -558,3 +558,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 199. **Nematode** – unsegmented worms with elongated rounded body pointed at both ends; mostly free-living but some are parasitic
 
+200. **Parrotfish** – gaudy tropical fishes with parrotlike beaks formed by fusion of teeth
+
