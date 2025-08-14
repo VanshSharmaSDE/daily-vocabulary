@@ -554,3 +554,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 197. **Syndicate** – a loose affiliation of gangsters in charge of organized criminal activities
 
+198. **Eludes** – escape, either physically or mentally
+
