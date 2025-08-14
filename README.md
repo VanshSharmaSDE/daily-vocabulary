@@ -552,3 +552,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 196. **Camails** – a medieval hood of mail suspended from a basinet to protect the head and neck
 
+197. **Syndicate** – a loose affiliation of gangsters in charge of organized criminal activities
+
