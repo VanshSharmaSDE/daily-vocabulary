@@ -560,3 +560,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 200. **Parrotfish** – gaudy tropical fishes with parrotlike beaks formed by fusion of teeth
 
+
+
+## 📅 2025-08-15
+
+201. **Liqueur** – strong highly flavored sweet liquor usually drunk after a meal
+
