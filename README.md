@@ -568,3 +568,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 202. **Icily** – in a cold and icy manner
 
+203. **Jackanapes** – someone who is unimportant but cheeky and presumptuous
+
