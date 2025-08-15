@@ -566,3 +566,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 201. **Liqueur** – strong highly flavored sweet liquor usually drunk after a meal
 
+202. **Icily** – in a cold and icy manner
+
