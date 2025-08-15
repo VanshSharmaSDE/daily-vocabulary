@@ -572,3 +572,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 204. **Hygienist** – a medical specialist in hygiene
 
+205. **Actinomycin** – any of various red antibiotics isolated from soil bacteria
+
