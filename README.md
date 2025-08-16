@@ -584,3 +584,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 208. **Medicine** – the branches of medical science that deal with nonsurgical techniques
 
+209. **Melters** – a worker who melts substances (metal or wax etc.)
+
