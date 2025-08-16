@@ -586,3 +586,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 209. **Melters** – a worker who melts substances (metal or wax etc.)
 
+210. **Opulences** – wealth as evidenced by sumptuous living
+
