@@ -582,3 +582,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 207. **Severity** – used of the degree of something undesirable e.g. pain or weather
 
+208. **Medicine** – the branches of medical science that deal with nonsurgical techniques
+
