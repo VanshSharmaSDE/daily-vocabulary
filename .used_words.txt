@@ -205,3 +205,4 @@ jackanapes
 hygienist
 actinomycin
 paddymelon
+severity

@@ -580,3 +580,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 206. **Paddymelon** – small reddish-brown wallabies of scrubby areas of Australia and New Guinea
 
+207. **Severity** – used of the degree of something undesirable e.g. pain or weather
+
