@@ -596,3 +596,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 212. **Expurgating** – edit by omitting or modifying parts considered indelicate
 
+213. **Portraits** – a word picture of a person's appearance and character
+
