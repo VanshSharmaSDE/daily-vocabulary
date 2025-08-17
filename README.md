@@ -600,3 +600,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 214. **Nullifiers** – an advocate of nullification; someone who believes that a state can resist federal laws
 
+215. **Fakeer** – a Muslim or Hindu mendicant monk who is regarded as a holy man
+
