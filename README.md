@@ -594,3 +594,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 211. **Manakins** – a woman who wears clothes to display fashions
 
+212. **Expurgating** – edit by omitting or modifying parts considered indelicate
+
