@@ -209,3 +209,4 @@ severity
 medicine
 melters
 opulences
+manakins

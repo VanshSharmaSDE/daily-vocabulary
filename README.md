@@ -588,3 +588,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 210. **Opulences** – wealth as evidenced by sumptuous living
 
+
+
+## 📅 2025-08-17
+
+211. **Manakins** – a woman who wears clothes to display fashions
+
