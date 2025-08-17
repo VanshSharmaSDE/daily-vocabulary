@@ -598,3 +598,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 213. **Portraits** – a word picture of a person's appearance and character
 
+214. **Nullifiers** – an advocate of nullification; someone who believes that a state can resist federal laws
+
