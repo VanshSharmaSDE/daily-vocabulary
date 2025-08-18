@@ -614,3 +614,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 219. **Bellower** – someone who communicates vocally in a very loud voice
 
+220. **Alimonies** – court-ordered support paid by one spouse to another after they are separated
+
