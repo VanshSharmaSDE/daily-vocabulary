@@ -602,3 +602,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 215. **Fakeer** – a Muslim or Hindu mendicant monk who is regarded as a holy man
 
+
+
+## 📅 2025-08-18
+
+216. **Polygons** – a closed plane figure bounded by straight sides
+
