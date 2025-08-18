@@ -608,3 +608,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 216. **Polygons** – a closed plane figure bounded by straight sides
 
+217. **Tridacna** – type genus of the family Tridacnidae: giant clams
+
