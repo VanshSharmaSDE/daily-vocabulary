@@ -610,3 +610,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 217. **Tridacna** – type genus of the family Tridacnidae: giant clams
 
+218. **Adjuster** – one who investigates insurance claims or claims for damages and recommends an effective settlement
+
