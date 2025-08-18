@@ -612,3 +612,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 218. **Adjuster** – one who investigates insurance claims or claims for damages and recommends an effective settlement
 
+219. **Bellower** – someone who communicates vocally in a very loud voice
+
