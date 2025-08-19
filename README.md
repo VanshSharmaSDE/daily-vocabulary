@@ -626,3 +626,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 223. **Pneumococcal** – of or derived from or caused by bacteria of the genus pneumococcus
 
+224. **Nucleates** – form into a nucleus
+
