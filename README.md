@@ -622,3 +622,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 221. **Neckwears** – articles of clothing worn about the neck
 
+222. **Botulin** – potent bacterial toxin produced by the bacterium Clostridium botulinum that causes botulism; can be used as a bioweapon
+
