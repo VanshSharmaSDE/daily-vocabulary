@@ -624,3 +624,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 222. **Botulin** – potent bacterial toxin produced by the bacterium Clostridium botulinum that causes botulism; can be used as a bioweapon
 
+223. **Pneumococcal** – of or derived from or caused by bacteria of the genus pneumococcus
+
