@@ -616,3 +616,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 220. **Alimonies** – court-ordered support paid by one spouse to another after they are separated
 
+
+
+## 📅 2025-08-19
+
+221. **Neckwears** – articles of clothing worn about the neck
+
