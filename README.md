@@ -640,3 +640,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 228. **Gated** – supply with a gate
 
+229. **Points** – a geometric element that has position but no extension
+
