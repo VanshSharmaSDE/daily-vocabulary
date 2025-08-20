@@ -630,3 +630,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 225. **Mercuries** – a heavy silvery toxic univalent and bivalent metallic element; the only metal that is liquid at ordinary temperatures
 
+
+
+## 📅 2025-08-20
+
+226. **Bostons** – state capital and largest city of Massachusetts; a major center for banking and financial services
+
