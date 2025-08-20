@@ -642,3 +642,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 229. **Points** – a geometric element that has position but no extension
 
+230. **Performers** – an entertainer who performs a dramatic or musical work for an audience
+
