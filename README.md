@@ -636,3 +636,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 226. **Bostons** – state capital and largest city of Massachusetts; a major center for banking and financial services
 
+227. **Equalizing** – compensate; make the score equal
+
