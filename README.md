@@ -638,3 +638,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 227. **Equalizing** – compensate; make the score equal
 
+228. **Gated** – supply with a gate
+
