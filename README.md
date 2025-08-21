@@ -652,3 +652,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 232. **Globins** – a colorless protein obtained by removing heme from hemoglobin; the oxygen carrying compound in red blood cells
 
+233. **Quaintly** – in a strange but not unpleasant manner
+
