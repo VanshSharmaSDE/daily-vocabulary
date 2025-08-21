@@ -650,3 +650,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 231. **Endorphin** – a neurochemical occurring naturally in the brain and having analgesic properties
 
+232. **Globins** – a colorless protein obtained by removing heme from hemoglobin; the oxygen carrying compound in red blood cells
+
