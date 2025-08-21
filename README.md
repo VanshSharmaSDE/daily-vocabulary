@@ -644,3 +644,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 230. **Performers** – an entertainer who performs a dramatic or musical work for an audience
 
+
+
+## 📅 2025-08-21
+
+231. **Endorphin** – a neurochemical occurring naturally in the brain and having analgesic properties
+
