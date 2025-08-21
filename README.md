@@ -656,3 +656,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 234. **Cultivates** – foster the growth of
 
+235. **Grimmer** – not to be placated or appeased or moved by entreaty
+
