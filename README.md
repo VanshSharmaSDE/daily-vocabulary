@@ -666,3 +666,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 237. **Igloos** – an Eskimo hut; usually built of blocks (of sod or snow) in the shape of a dome
 
+238. **Hairlike** – long and slender with a very small internal diameter
+
