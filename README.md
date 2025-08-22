@@ -670,3 +670,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 239. **Osteologist** – an anatomist who is skilled is osteology
 
+240. **Enchiridia** – a concise reference book providing specific information about a subject or location
+
