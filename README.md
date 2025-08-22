@@ -658,3 +658,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 235. **Grimmer** – not to be placated or appeased or moved by entreaty
 
+
+
+## 📅 2025-08-22
+
+236. **Equivocated** – be deliberately ambiguous or unclear in order to mislead or withhold information
+
