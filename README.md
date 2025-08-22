@@ -668,3 +668,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 238. **Hairlike** – long and slender with a very small internal diameter
 
+239. **Osteologist** – an anatomist who is skilled is osteology
+
