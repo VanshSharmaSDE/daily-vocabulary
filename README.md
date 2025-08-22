@@ -664,3 +664,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 236. **Equivocated** – be deliberately ambiguous or unclear in order to mislead or withhold information
 
+237. **Igloos** – an Eskimo hut; usually built of blocks (of sod or snow) in the shape of a dome
+
