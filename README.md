@@ -684,3 +684,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 244. **Prickle** – a small sharp-pointed tip resembling a spike on a stem or leaf
 
+245. **Brollies** – colloquial terms for an umbrella
+
