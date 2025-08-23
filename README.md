@@ -682,3 +682,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 243. **Pipefuls** – the quantity of tobacco that can be smoked in a pipe at one time
 
+244. **Prickle** – a small sharp-pointed tip resembling a spike on a stem or leaf
+
