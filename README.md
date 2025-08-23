@@ -680,3 +680,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 242. **Tolerating** – put up with something or somebody unpleasant
 
+243. **Pipefuls** – the quantity of tobacco that can be smoked in a pipe at one time
+
