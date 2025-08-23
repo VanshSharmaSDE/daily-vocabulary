@@ -678,3 +678,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 241. **Imposture** – pretending to be another person
 
+242. **Tolerating** – put up with something or somebody unpleasant
+
