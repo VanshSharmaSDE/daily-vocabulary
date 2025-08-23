@@ -672,3 +672,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 240. **Enchiridia** – a concise reference book providing specific information about a subject or location
 
+
+
+## 📅 2025-08-23
+
+241. **Imposture** – pretending to be another person
+
