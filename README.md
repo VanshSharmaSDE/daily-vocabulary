@@ -698,3 +698,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 249. **Fuddling** – make stupid with alcohol
 
+250. **Uraemias** – accumulation in the blood of nitrogenous waste products (urea) that are usually excreted in the urine
+
