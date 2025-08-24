@@ -686,3 +686,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 245. **Brollies** – colloquial terms for an umbrella
 
+
+
+## 📅 2025-08-24
+
+246. **Recognizance** – (law) a security entered into before a court with a condition to perform some act required by law; on failure to perform that act a sum is forfeited
+
