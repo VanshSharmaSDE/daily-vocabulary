@@ -692,3 +692,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 246. **Recognizance** – (law) a security entered into before a court with a condition to perform some act required by law; on failure to perform that act a sum is forfeited
 
+247. **Carinas** – a keel-shaped constellation in the southern hemisphere; contains the start Canopus
+
