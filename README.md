@@ -694,3 +694,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 247. **Carinas** – a keel-shaped constellation in the southern hemisphere; contains the start Canopus
 
+248. **Synced** – make synchronous and adjust in time or manner
+
