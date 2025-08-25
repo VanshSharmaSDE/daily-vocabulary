@@ -706,3 +706,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 251. **Murderers** – a criminal who commits homicide (who performs the unlawful premeditated killing of another human being)
 
+252. **Sprains** – a painful injury to a joint caused by a sudden wrenching of its ligaments
+
