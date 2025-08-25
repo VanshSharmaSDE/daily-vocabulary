@@ -710,3 +710,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 253. **Coarsest** – of textures that are rough to the touch or substances consisting of relatively large particles
 
+254. **Moline** – a town in northwest Illinois on the Mississippi River
+
