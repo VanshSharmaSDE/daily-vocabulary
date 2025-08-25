@@ -700,3 +700,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 250. **Uraemias** – accumulation in the blood of nitrogenous waste products (urea) that are usually excreted in the urine
 
+
+
+## 📅 2025-08-25
+
+251. **Murderers** – a criminal who commits homicide (who performs the unlawful premeditated killing of another human being)
+
