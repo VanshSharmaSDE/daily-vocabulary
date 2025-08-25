@@ -712,3 +712,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 254. **Moline** – a town in northwest Illinois on the Mississippi River
 
+255. **Inspection** – a formal or official examination
+
