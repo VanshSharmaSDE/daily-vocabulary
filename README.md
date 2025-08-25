@@ -708,3 +708,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 252. **Sprains** – a painful injury to a joint caused by a sudden wrenching of its ligaments
 
+253. **Coarsest** – of textures that are rough to the touch or substances consisting of relatively large particles
+
