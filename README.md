@@ -724,3 +724,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 258. **Dysfunctional** – impaired in function; especially of a bodily system or organ
 
+259. **Imperviousness** – the quality of being impenetrable (by people or light or missiles etc.)
+
