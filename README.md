@@ -714,3 +714,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 255. **Inspection** – a formal or official examination
 
+
+
+## 📅 2025-08-26
+
+256. **Benthonic** – of or relating to or happening on the bottom under a body of water
+
