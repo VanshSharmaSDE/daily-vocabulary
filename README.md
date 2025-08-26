@@ -726,3 +726,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 259. **Imperviousness** – the quality of being impenetrable (by people or light or missiles etc.)
 
+260. **Titaness** – (Greek mythology) any of the primordial giant goddesses who were offspring of Uranus (heaven) and Gaea (earth) in ancient mythology
+
