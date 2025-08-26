@@ -720,3 +720,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 256. **Benthonic** – of or relating to or happening on the bottom under a body of water
 
+257. **Crackle** – the sharp sound of snapping noises
+
