@@ -738,3 +738,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 263. **Begrudge** – be envious of; set one's heart on
 
+264. **Laterite** – a red soil produced by rock decay; contains insoluble deposits of ferric and aluminum oxides
+
