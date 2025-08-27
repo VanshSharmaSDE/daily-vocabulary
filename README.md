@@ -734,3 +734,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 261. **Elaborateness** – marked by elaborately complex detail
 
+262. **Limelight** – a focus of public attention
+
