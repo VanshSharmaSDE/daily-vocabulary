@@ -740,3 +740,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 264. **Laterite** – a red soil produced by rock decay; contains insoluble deposits of ferric and aluminum oxides
 
+265. **Electorates** – the body of enfranchised citizens; those qualified to vote
+
