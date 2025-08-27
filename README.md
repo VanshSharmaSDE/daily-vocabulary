@@ -736,3 +736,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 262. **Limelight** – a focus of public attention
 
+263. **Begrudge** – be envious of; set one's heart on
+
