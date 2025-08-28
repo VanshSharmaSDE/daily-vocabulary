@@ -754,3 +754,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 269. **Sleddings** – the sport of riding on a sled or sleigh
 
+270. **Interrogator** – a questioner who is excessively harsh
+
