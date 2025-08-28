@@ -742,3 +742,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 265. **Electorates** – the body of enfranchised citizens; those qualified to vote
 
+
+
+## 📅 2025-08-28
+
+266. **Wantoned** – waste time; spend one's time idly or inefficiently
+
