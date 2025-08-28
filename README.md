@@ -750,3 +750,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 267. **Caddisworm** – larva of the caddis fly; constructs a case of silk covered with sand or plant debris
 
+268. **Congruent** – corresponding in character or kind
+
