@@ -748,3 +748,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 266. **Wantoned** – waste time; spend one's time idly or inefficiently
 
+267. **Caddisworm** – larva of the caddis fly; constructs a case of silk covered with sand or plant debris
+
