@@ -752,3 +752,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 268. **Congruent** – corresponding in character or kind
 
+269. **Sleddings** – the sport of riding on a sled or sleigh
+
