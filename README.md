@@ -764,3 +764,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 272. **Chemisorption** – adsorption (especially when irreversible) by means of chemical instead of physical forces
 
+273. **Tackler** – a football player who tackles the ball carrier
+
