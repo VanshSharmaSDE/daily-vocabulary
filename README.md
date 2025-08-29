@@ -766,3 +766,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 273. **Tackler** – a football player who tackles the ball carrier
 
+274. **Snitches** – someone acting as an informer or decoy for the police
+
