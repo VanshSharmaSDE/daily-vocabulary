@@ -768,3 +768,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 274. **Snitches** – someone acting as an informer or decoy for the police
 
+275. **Counterirritant** – a medicine applied locally to produce superficial inflammation in order to reduce deeper inflammation
+
