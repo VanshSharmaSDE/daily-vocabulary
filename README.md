@@ -756,3 +756,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 270. **Interrogator** – a questioner who is excessively harsh
 
+
+
+## 📅 2025-08-29
+
+271. **Septenary** – the cardinal number that is the sum of six and one
+
