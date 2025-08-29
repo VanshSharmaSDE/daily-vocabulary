@@ -762,3 +762,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 271. **Septenary** – the cardinal number that is the sum of six and one
 
+272. **Chemisorption** – adsorption (especially when irreversible) by means of chemical instead of physical forces
+
