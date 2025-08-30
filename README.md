@@ -782,3 +782,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 279. **Pupas** – an insect in the inactive stage of development (when it is not feeding) intermediate between larva and adult
 
+280. **Addressable** – capable of being addressed
+
