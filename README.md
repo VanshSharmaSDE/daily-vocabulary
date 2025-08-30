@@ -778,3 +778,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 277. **Duplexing** – change into a duplex
 
+278. **Glochids** – a barbed spine or bristle (often tufted on cacti)
+
