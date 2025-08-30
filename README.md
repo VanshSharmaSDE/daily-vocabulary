@@ -770,3 +770,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 275. **Counterirritant** – a medicine applied locally to produce superficial inflammation in order to reduce deeper inflammation
 
+
+
+## 📅 2025-08-30
+
+276. **Trogons** – forest bird of warm regions of the New World having brilliant lustrous plumage and long tails
+
