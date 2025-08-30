@@ -776,3 +776,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 276. **Trogons** – forest bird of warm regions of the New World having brilliant lustrous plumage and long tails
 
+277. **Duplexing** – change into a duplex
+
