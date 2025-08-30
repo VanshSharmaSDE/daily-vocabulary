@@ -780,3 +780,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 278. **Glochids** – a barbed spine or bristle (often tufted on cacti)
 
+279. **Pupas** – an insect in the inactive stage of development (when it is not feeding) intermediate between larva and adult
+
