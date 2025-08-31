@@ -790,3 +790,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 281. **Psychonomics** – the branch of psychology that uses experimental methods to study psychological issues
 
+282. **Scaly** – rough to the touch; covered with scales or scurf
+
