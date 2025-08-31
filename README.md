@@ -796,3 +796,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 284. **Meekly** – in a submissive or spiritless manner
 
+285. **Pharmacy** – the art and science of preparing and dispensing drugs and medicines,
+

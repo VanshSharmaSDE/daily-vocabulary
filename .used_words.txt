@@ -283,3 +283,4 @@ psychonomics
 scaly
 amphibian
 meekly
+pharmacy
