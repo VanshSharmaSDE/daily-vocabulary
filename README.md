@@ -792,3 +792,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 282. **Scaly** – rough to the touch; covered with scales or scurf
 
+283. **Amphibian** – a flat-bottomed motor vehicle that can travel on land or water
+
