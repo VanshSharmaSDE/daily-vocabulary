@@ -794,3 +794,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 283. **Amphibian** – a flat-bottomed motor vehicle that can travel on land or water
 
+284. **Meekly** – in a submissive or spiritless manner
+
