@@ -784,3 +784,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 280. **Addressable** – capable of being addressed
 
+
+
+## 📅 2025-08-31
+
+281. **Psychonomics** – the branch of psychology that uses experimental methods to study psychological issues
+
