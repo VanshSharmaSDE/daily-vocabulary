@@ -804,3 +804,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 286. **Dilettanti** – an amateur who engages in an activity without serious intentions and who pretends to have knowledge
 
+287. **Bonderize** – coat with a substance that will prevent corrosion
+
