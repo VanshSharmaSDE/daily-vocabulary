@@ -806,3 +806,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 287. **Bonderize** – coat with a substance that will prevent corrosion
 
+288. **Trombonist** – a musician who plays the trombone
+
