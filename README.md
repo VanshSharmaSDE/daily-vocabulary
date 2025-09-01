@@ -810,3 +810,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 289. **Mercuric** – of or containing mercury
 
+290. **Mystified** – be a mystery or bewildering to
+
