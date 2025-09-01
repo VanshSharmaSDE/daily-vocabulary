@@ -287,3 +287,4 @@ pharmacy
 dilettanti
 bonderize
 trombonist
+mercuric

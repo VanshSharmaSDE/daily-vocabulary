@@ -808,3 +808,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 288. **Trombonist** – a musician who plays the trombone
 
+289. **Mercuric** – of or containing mercury
+
