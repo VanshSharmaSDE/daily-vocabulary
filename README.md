@@ -798,3 +798,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 285. **Pharmacy** – the art and science of preparing and dispensing drugs and medicines,
 
+
+
+## 📅 2025-09-01
+
+286. **Dilettanti** – an amateur who engages in an activity without serious intentions and who pretends to have knowledge
+
