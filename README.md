@@ -824,3 +824,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 294. **Thralls** – the state of being under the control of another person
 
+295. **Galvanising** – to stimulate to action
+
