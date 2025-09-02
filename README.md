@@ -818,3 +818,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 291. **Souari** – large South American evergreen tree trifoliate leaves and drupes with nutlike seeds used as food and a source of cooking oil
 
+292. **Anasarca** – generalized edema with accumulation of serum in subcutaneous connective tissue
+
