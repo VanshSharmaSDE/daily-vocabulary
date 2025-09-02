@@ -820,3 +820,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 292. **Anasarca** – generalized edema with accumulation of serum in subcutaneous connective tissue
 
+293. **Suisse** – a landlocked federal republic in central Europe
+
