@@ -834,3 +834,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 297. **Tired** – lose interest or become bored with something or somebody
 
+298. **Henchman** – someone who assists in a plot
+
