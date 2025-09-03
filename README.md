@@ -836,3 +836,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 298. **Henchman** – someone who assists in a plot
 
+299. **Amygdalae** – an almond-shaped neural structure in the anterior part of the temporal lobe of the cerebrum; intimately connected with the hypothalamus and the hippocampus and the cingulate gyrus; as part of the limbic system it plays an important role in motivation and emotional behavior
+
