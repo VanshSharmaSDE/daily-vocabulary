@@ -832,3 +832,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 296. **Truncate** – replace a corner by a plane
 
+297. **Tired** – lose interest or become bored with something or somebody
+
