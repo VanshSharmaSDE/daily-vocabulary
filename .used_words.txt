@@ -294,3 +294,4 @@ anasarca
 suisse
 thralls
 galvanising
+truncate

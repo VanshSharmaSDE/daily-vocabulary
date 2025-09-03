@@ -826,3 +826,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 295. **Galvanising** – to stimulate to action
 
+
+
+## 📅 2025-09-03
+
+296. **Truncate** – replace a corner by a plane
+
