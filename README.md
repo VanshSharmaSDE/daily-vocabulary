@@ -838,3 +838,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 299. **Amygdalae** – an almond-shaped neural structure in the anterior part of the temporal lobe of the cerebrum; intimately connected with the hypothalamus and the hippocampus and the cingulate gyrus; as part of the limbic system it plays an important role in motivation and emotional behavior
 
+300. **Spotters** – a worker employed at a dry-cleaning establishment to remove spots
+
