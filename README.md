@@ -850,3 +850,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 303. **Whiting** – flesh of a cod-like fish of the Atlantic waters of Europe
 
+304. **Gorses** – very spiny and dense evergreen shrub with fragrant golden-yellow flowers; common throughout western Europe
+
