@@ -846,3 +846,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 301. **Tetrahydrocannabinol** – psychoactive substance present in marijuana
 
+302. **Onomatopoeical** – (of words) formed in imitation of a natural sound; ; - Harry Hoijer
+
