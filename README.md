@@ -848,3 +848,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 302. **Onomatopoeical** – (of words) formed in imitation of a natural sound; ; - Harry Hoijer
 
+303. **Whiting** – flesh of a cod-like fish of the Atlantic waters of Europe
+
