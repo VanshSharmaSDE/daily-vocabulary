@@ -840,3 +840,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 300. **Spotters** – a worker employed at a dry-cleaning establishment to remove spots
 
+
+
+## 📅 2025-09-04
+
+301. **Tetrahydrocannabinol** – psychoactive substance present in marijuana
+
