@@ -864,3 +864,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 308. **Sciolistic** – showing frivolous or superficial interest; amateurish
 
+309. **Produces** – fresh fruits and vegetable grown for the market
+
