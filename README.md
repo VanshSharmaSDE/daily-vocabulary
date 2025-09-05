@@ -862,3 +862,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 307. **Prosecute** – conduct a prosecution in a court of law
 
+308. **Sciolistic** – showing frivolous or superficial interest; amateurish
+
