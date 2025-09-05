@@ -860,3 +860,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 306. **Harmony** – compatibility in opinion and action
 
+307. **Prosecute** – conduct a prosecution in a court of law
+
