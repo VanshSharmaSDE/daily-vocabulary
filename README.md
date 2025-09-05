@@ -866,3 +866,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 309. **Produces** – fresh fruits and vegetable grown for the market
 
+310. **Braille** – French educator who lost his sight at the age of three and who invented a system of writing and printing for sightless people (1809-1852)
+
