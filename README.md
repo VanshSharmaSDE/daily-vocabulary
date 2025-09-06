@@ -876,3 +876,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 312. **Quicksilver** – a heavy silvery toxic univalent and bivalent metallic element; the only metal that is liquid at ordinary temperatures
 
+313. **Laminectomy** – surgical removal of the bony arches on one or more vertebrae
+
