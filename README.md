@@ -868,3 +868,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 310. **Braille** – French educator who lost his sight at the age of three and who invented a system of writing and printing for sightless people (1809-1852)
 
+
+
+## 📅 2025-09-06
+
+311. **Skinners** – United States actor (1858-1942)
+
