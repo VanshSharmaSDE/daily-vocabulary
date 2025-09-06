@@ -880,3 +880,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 314. **Prehistory** – the time during the development of human culture before the appearance of the written word
 
+315. **Dominick** – American breed of chicken having barred grey plumage raised for meat and brown eggs
+
