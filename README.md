@@ -878,3 +878,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 313. **Laminectomy** – surgical removal of the bony arches on one or more vertebrae
 
+314. **Prehistory** – the time during the development of human culture before the appearance of the written word
+
