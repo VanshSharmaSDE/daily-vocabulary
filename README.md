@@ -890,3 +890,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 317. **Succedaneums** – (medicine) something that can be used as a substitute (especially any medicine that may be taken in place of another)
 
+318. **Midis** – the southern part of France
+
