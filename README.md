@@ -894,3 +894,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 319. **Completely** – to a complete degree or to the full or entire extent (`whole' is often used informally for `wholly')
 
+320. **Neutralizing** – make politically neutral and thus inoffensive
+
