@@ -888,3 +888,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 316. **Banknote** – a piece of paper money (especially one issued by a central bank)
 
+317. **Succedaneums** – (medicine) something that can be used as a substitute (especially any medicine that may be taken in place of another)
+
