@@ -882,3 +882,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 315. **Dominick** – American breed of chicken having barred grey plumage raised for meat and brown eggs
 
+
+
+## 📅 2025-09-07
+
+316. **Banknote** – a piece of paper money (especially one issued by a central bank)
+
