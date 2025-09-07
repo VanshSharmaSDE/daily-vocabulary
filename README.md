@@ -892,3 +892,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 318. **Midis** – the southern part of France
 
+319. **Completely** – to a complete degree or to the full or entire extent (`whole' is often used informally for `wholly')
+
