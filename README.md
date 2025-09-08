@@ -904,3 +904,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 322. **Crosscheck** – an instance of confirming something by considering information from several sources
 
+323. **Sunny** – bright and pleasant; promoting a feeling of cheer
+
