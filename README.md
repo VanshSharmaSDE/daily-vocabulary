@@ -906,3 +906,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 323. **Sunny** – bright and pleasant; promoting a feeling of cheer
 
+324. **Campsite** – a site where people on holiday can pitch a tent
+
