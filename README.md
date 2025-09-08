@@ -896,3 +896,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 320. **Neutralizing** – make politically neutral and thus inoffensive
 
+
+
+## 📅 2025-09-08
+
+321. **Pedantically** – in a pedantic manner
+
