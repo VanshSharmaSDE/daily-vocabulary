@@ -902,3 +902,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 321. **Pedantically** – in a pedantic manner
 
+322. **Crosscheck** – an instance of confirming something by considering information from several sources
+
