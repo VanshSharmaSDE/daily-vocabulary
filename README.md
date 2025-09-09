@@ -920,3 +920,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 328. **Declassifications** – reduction or removal by the government of restrictions on a classified document or weapon
 
+329. **Knockoffs** – an unauthorized copy or imitation
+
