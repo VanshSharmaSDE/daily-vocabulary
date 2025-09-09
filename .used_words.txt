@@ -324,3 +324,4 @@ crosscheck
 sunny
 campsite
 plait
+applied

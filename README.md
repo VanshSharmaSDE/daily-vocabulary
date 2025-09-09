@@ -910,3 +910,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 325. **Plait** – a hairdo formed by braiding or twisting the hair
 
+
+
+## 📅 2025-09-09
+
+326. **Applied** – put into service; make work or employ for a particular purpose or for its inherent or natural purpose
+
