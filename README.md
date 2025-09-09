@@ -918,3 +918,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 327. **Cacalia** – genus of tall smooth herbs of forested mountains of Europe and Asia minor; in some classifications includes many plants usually placed in genus Emilia
 
+328. **Declassifications** – reduction or removal by the government of restrictions on a classified document or weapon
+
