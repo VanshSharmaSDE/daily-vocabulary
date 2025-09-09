@@ -922,3 +922,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 329. **Knockoffs** – an unauthorized copy or imitation
 
+330. **Absorption** – (chemistry) a process in which one substance permeates another; a fluid permeates or is dissolved by a liquid or solid
+
