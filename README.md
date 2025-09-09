@@ -916,3 +916,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 326. **Applied** – put into service; make work or employ for a particular purpose or for its inherent or natural purpose
 
+327. **Cacalia** – genus of tall smooth herbs of forested mountains of Europe and Asia minor; in some classifications includes many plants usually placed in genus Emilia
+
