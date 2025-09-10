@@ -930,3 +930,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 331. **Beech** – any of several large deciduous trees with rounded spreading crowns and smooth grey bark and small sweet edible triangular nuts enclosed in burs; north temperate regions
 
+332. **Shinny** – a simple version of hockey played by children on the streets (or on ice or on a field) using a ball or can as the puck
+
