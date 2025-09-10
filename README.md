@@ -932,3 +932,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 332. **Shinny** – a simple version of hockey played by children on the streets (or on ice or on a field) using a ball or can as the puck
 
+333. **Angeluses** – the sound of a bell rung in Roman Catholic churches to announce the time when the Angelus should be recited
+
