@@ -936,3 +936,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 334. **Folksong** – a song that is traditionally sung by the common people of a region and forms part of their culture
 
+335. **Mottoes** – a favorite saying of a sect or political group
+
