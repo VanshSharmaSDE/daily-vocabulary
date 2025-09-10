@@ -924,3 +924,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 330. **Absorption** – (chemistry) a process in which one substance permeates another; a fluid permeates or is dissolved by a liquid or solid
 
+
+
+## 📅 2025-09-10
+
+331. **Beech** – any of several large deciduous trees with rounded spreading crowns and smooth grey bark and small sweet edible triangular nuts enclosed in burs; north temperate regions
+
