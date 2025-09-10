@@ -934,3 +934,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 333. **Angeluses** – the sound of a bell rung in Roman Catholic churches to announce the time when the Angelus should be recited
 
+334. **Folksong** – a song that is traditionally sung by the common people of a region and forms part of their culture
+
