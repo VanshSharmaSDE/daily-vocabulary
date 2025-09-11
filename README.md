@@ -950,3 +950,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 339. **Communally** – by a group of people rather than an individual
 
+340. **Scrofulas** – a form of tuberculosis characterized by swellings of the lymphatic glands
+
