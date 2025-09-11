@@ -948,3 +948,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 338. **Calibrating** – make fine adjustments or divide into marked intervals for optimal measuring
 
+339. **Communally** – by a group of people rather than an individual
+
