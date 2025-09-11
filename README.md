@@ -946,3 +946,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 337. **Hummed** – sing with closed lips
 
+338. **Calibrating** – make fine adjustments or divide into marked intervals for optimal measuring
+
