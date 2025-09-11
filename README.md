@@ -938,3 +938,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 335. **Mottoes** – a favorite saying of a sect or political group
 
+
+
+## 📅 2025-09-11
+
+336. **Amusingly** – in an entertaining and amusing manner
+
