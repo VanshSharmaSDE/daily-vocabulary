@@ -944,3 +944,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 336. **Amusingly** – in an entertaining and amusing manner
 
+337. **Hummed** – sing with closed lips
+
