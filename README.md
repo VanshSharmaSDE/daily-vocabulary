@@ -960,3 +960,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 342. **Uranologist** – a physicist who studies astronomy
 
+343. **Subjectivity** – judgment based on individual personal impressions and feelings and opinions rather than external facts
+
