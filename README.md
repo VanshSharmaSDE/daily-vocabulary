@@ -952,3 +952,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 340. **Scrofulas** – a form of tuberculosis characterized by swellings of the lymphatic glands
 
+
+
+## 📅 2025-09-12
+
+341. **Platted** – make a plat of
+
