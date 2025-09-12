@@ -964,3 +964,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 344. **Umpiring** – be a referee or umpire in a sports competition
 
+345. **Nuptial** – of or relating to a wedding
+
