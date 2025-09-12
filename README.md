@@ -958,3 +958,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 341. **Platted** – make a plat of
 
+342. **Uranologist** – a physicist who studies astronomy
+
