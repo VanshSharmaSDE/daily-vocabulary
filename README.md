@@ -974,3 +974,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 347. **Stunningly** – in a spectacular manner
 
+348. **Saudi** – a native or inhabitant of Saudi Arabia
+
