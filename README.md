@@ -978,3 +978,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 349. **Pholadidae** – a family of Bivalvia
 
+350. **Petulant** – easily irritated or annoyed
+
