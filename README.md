@@ -972,3 +972,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 346. **Fingerprint** – a print made by an impression of the ridges in the skin of a finger; often used for biometric identification in criminal investigations
 
+347. **Stunningly** – in a spectacular manner
+
