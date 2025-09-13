@@ -976,3 +976,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 348. **Saudi** – a native or inhabitant of Saudi Arabia
 
+349. **Pholadidae** – a family of Bivalvia
+
