@@ -966,3 +966,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 345. **Nuptial** – of or relating to a wedding
 
+
+
+## 📅 2025-09-13
+
+346. **Fingerprint** – a print made by an impression of the ridges in the skin of a finger; often used for biometric identification in criminal investigations
+
