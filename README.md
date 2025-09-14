@@ -992,3 +992,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 354. **Gunwales** – wale at the top of the side of boat; topmost planking of a wooden vessel
 
+355. **Suzerainties** – the position or authority of a suzerain
+
