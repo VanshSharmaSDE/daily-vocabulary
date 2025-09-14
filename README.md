@@ -980,3 +980,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 350. **Petulant** – easily irritated or annoyed
 
+
+
+## 📅 2025-09-14
+
+351. **Pinging** – hit with a pinging noise
+
