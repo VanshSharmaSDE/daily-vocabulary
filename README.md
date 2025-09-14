@@ -988,3 +988,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 352. **Molasseses** – thick dark syrup produced by boiling down juice from sugar cane; especially during sugar refining
 
+353. **Possessives** – the case expressing ownership
+
