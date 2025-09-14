@@ -986,3 +986,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 351. **Pinging** – hit with a pinging noise
 
+352. **Molasseses** – thick dark syrup produced by boiling down juice from sugar cane; especially during sugar refining
+
