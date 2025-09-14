@@ -990,3 +990,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 353. **Possessives** – the case expressing ownership
 
+354. **Gunwales** – wale at the top of the side of boat; topmost planking of a wooden vessel
+
