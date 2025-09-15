@@ -1004,3 +1004,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 358. **Balanoposthitis** – inflammation of both the head of the penis and the foreskin
 
+359. **Affricate** – a composite speech sound consisting of a stop and a fricative articulated at the same point (as `ch' in `chair' and `j' in `joy')
+
