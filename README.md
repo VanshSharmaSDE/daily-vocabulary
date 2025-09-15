@@ -994,3 +994,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 355. **Suzerainties** – the position or authority of a suzerain
 
+
+
+## 📅 2025-09-15
+
+356. **Fictions** – a literary work based on the imagination and not necessarily on fact
+
