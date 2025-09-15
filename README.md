@@ -1006,3 +1006,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 359. **Affricate** – a composite speech sound consisting of a stop and a fricative articulated at the same point (as `ch' in `chair' and `j' in `joy')
 
+360. **Tweezers** – a hand tool for holding consisting of a compound lever for grasping
+
