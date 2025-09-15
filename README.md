@@ -1000,3 +1000,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 356. **Fictions** – a literary work based on the imagination and not necessarily on fact
 
+357. **Escheats** – a reversion to the state (as the ultimate owner of property) in the absence of legal heirs
+
