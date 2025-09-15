@@ -1002,3 +1002,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 357. **Escheats** – a reversion to the state (as the ultimate owner of property) in the absence of legal heirs
 
+358. **Balanoposthitis** – inflammation of both the head of the penis and the foreskin
+
