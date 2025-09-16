@@ -1020,3 +1020,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 364. **Gerbilles** – small Old World burrowing desert rodent with long soft pale fur and hind legs adapted for leaping
 
+365. **Devotee** – an ardent follower and admirer
+
