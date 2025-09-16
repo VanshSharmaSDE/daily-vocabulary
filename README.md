@@ -1018,3 +1018,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 363. **Camerae** – equipment for taking photographs (usually consisting of a lightproof box with a lens at one end and light-sensitive film at the other)
 
+364. **Gerbilles** – small Old World burrowing desert rodent with long soft pale fur and hind legs adapted for leaping
+
