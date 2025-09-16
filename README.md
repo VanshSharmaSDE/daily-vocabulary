@@ -1014,3 +1014,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 361. **Carrels** – French surgeon and biologist who developed a way to suture and graft blood vessels (1873-1944)
 
+362. **Allylic** – of or pertaining to the allyl radical
+
