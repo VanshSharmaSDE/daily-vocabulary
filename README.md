@@ -1016,3 +1016,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 362. **Allylic** – of or pertaining to the allyl radical
 
+363. **Camerae** – equipment for taking photographs (usually consisting of a lightproof box with a lens at one end and light-sensitive film at the other)
+
