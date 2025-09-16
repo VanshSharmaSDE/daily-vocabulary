@@ -1008,3 +1008,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 360. **Tweezers** – a hand tool for holding consisting of a compound lever for grasping
 
+
+
+## 📅 2025-09-16
+
+361. **Carrels** – French surgeon and biologist who developed a way to suture and graft blood vessels (1873-1944)
+
