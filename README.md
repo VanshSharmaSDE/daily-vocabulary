@@ -1030,3 +1030,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 367. **Acidophilus** – a bacterium that is used to make yogurt and to supplement probiotics
 
+368. **Disaccharide** – any of a variety of carbohydrates that yield two monosaccharide molecules on complete hydrolysis
+
