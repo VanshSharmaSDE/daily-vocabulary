@@ -1022,3 +1022,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 365. **Devotee** – an ardent follower and admirer
 
+
+
+## 📅 2025-09-17
+
+366. **Initiates** – someone new to a field or activity
+
