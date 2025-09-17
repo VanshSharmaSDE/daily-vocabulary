@@ -1032,3 +1032,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 368. **Disaccharide** – any of a variety of carbohydrates that yield two monosaccharide molecules on complete hydrolysis
 
+369. **Evilly** – in a wicked evil manner
+
