@@ -1028,3 +1028,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 366. **Initiates** – someone new to a field or activity
 
+367. **Acidophilus** – a bacterium that is used to make yogurt and to supplement probiotics
+
