@@ -1034,3 +1034,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 369. **Evilly** – in a wicked evil manner
 
+370. **Underbred** – (of persons) lacking in refinement or grace
+
