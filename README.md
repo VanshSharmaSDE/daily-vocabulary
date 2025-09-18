@@ -1044,3 +1044,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 372. **Overreaction** – an excessive reaction; a reaction with inappropriate emotional behavior
 
+373. **Implies** – express or state indirectly
+
