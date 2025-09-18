@@ -1042,3 +1042,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 371. **Zapotecan** – a member of a large tribe of Mesoamericans living in southern Mexico whose civilization flourished around 300 to 900
 
+372. **Overreaction** – an excessive reaction; a reaction with inappropriate emotional behavior
+
