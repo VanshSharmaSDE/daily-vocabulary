@@ -1036,3 +1036,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 370. **Underbred** – (of persons) lacking in refinement or grace
 
+
+
+## 📅 2025-09-18
+
+371. **Zapotecan** – a member of a large tribe of Mesoamericans living in southern Mexico whose civilization flourished around 300 to 900
+
