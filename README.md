@@ -1048,3 +1048,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 374. **Synchronic** – occurring or existing at the same time or having the same period or phase; - Jour.A.M.A.
 
+375. **Faxing** – send something via a facsimile machine
+
