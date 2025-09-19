@@ -1058,3 +1058,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 377. **Autocrats** – a cruel and oppressive dictator
 
+378. **Parkways** – a wide scenic road planted with trees
+
