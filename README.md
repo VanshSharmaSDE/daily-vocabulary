@@ -1062,3 +1062,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 379. **Fertilized** – provide with fertilizers or add nutrients to
 
+380. **Pustules** – a small inflamed elevation of skin containing pus; a blister filled with pus
+
