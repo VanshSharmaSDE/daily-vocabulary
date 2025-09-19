@@ -1050,3 +1050,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 375. **Faxing** – send something via a facsimile machine
 
+
+
+## 📅 2025-09-19
+
+376. **Secede** – withdraw from an organization or communion
+
