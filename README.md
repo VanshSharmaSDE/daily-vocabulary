@@ -1056,3 +1056,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 376. **Secede** – withdraw from an organization or communion
 
+377. **Autocrats** – a cruel and oppressive dictator
+
