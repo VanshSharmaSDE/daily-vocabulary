@@ -1060,3 +1060,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 378. **Parkways** – a wide scenic road planted with trees
 
+379. **Fertilized** – provide with fertilizers or add nutrients to
+
