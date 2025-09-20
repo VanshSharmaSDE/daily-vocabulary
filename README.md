@@ -1070,3 +1070,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 381. **Demolitions** – an event (or the result of an event) that completely destroys something
 
+382. **Destroyer** – a small fast lightly armored but heavily armed warship
+
