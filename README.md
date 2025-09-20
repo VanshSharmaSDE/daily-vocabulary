@@ -1074,3 +1074,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 383. **Southeastwardly** – in a southeastward direction
 
+384. **Baned** – forbid the public distribution of ( a movie or a newspaper)
+
