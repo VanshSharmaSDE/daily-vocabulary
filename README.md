@@ -1072,3 +1072,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 382. **Destroyer** – a small fast lightly armored but heavily armed warship
 
+383. **Southeastwardly** – in a southeastward direction
+
