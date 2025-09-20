@@ -1064,3 +1064,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 380. **Pustules** – a small inflamed elevation of skin containing pus; a blister filled with pus
 
+
+
+## 📅 2025-09-20
+
+381. **Demolitions** – an event (or the result of an event) that completely destroys something
+
