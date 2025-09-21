@@ -1078,3 +1078,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 385. **Grayish** – of an achromatic color of any lightness intermediate between the extremes of white and black
 
+
+
+## 📅 2025-09-21
+
+386. **Corixa** – type genus of the Corixidae: boat bugs
+
