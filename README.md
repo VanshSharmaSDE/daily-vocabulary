@@ -1090,3 +1090,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 389. **Caprifigs** – wild variety of the common fig used to facilitate pollination of certain figs
 
+390. **Mananas** – an indefinite time in the future
+
