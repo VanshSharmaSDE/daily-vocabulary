@@ -1086,3 +1086,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 387. **Hypsography** – the scientific study of the earth's configuration above sea level (emphasizing the measurement of land altitudes relative to sea level)
 
+388. **Fantasm** – a ghostly appearing figure
+
