@@ -1092,3 +1092,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 390. **Mananas** – an indefinite time in the future
 
+
+
+## 📅 2025-09-22
+
+391. **Majesties** – impressiveness in scale or proportion
+
