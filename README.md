@@ -1102,3 +1102,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 393. **Benefit** – financial assistance in time of need
 
+394. **Volitions** – the capability of conscious choice and decision and intention; - George Meredith
+
