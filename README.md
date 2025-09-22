@@ -1104,3 +1104,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 394. **Volitions** – the capability of conscious choice and decision and intention; - George Meredith
 
+395. **Conies** – any of several small ungulate mammals of Africa and Asia with rodent-like incisors and feet with hooflike toes
+
