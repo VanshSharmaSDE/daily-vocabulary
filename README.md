@@ -1100,3 +1100,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 392. **Hypocrite** – a person who professes beliefs and opinions that he or she does not hold in order to conceal his or her real feelings or motives
 
+393. **Benefit** – financial assistance in time of need
+
