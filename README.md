@@ -1098,3 +1098,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 391. **Majesties** – impressiveness in scale or proportion
 
+392. **Hypocrite** – a person who professes beliefs and opinions that he or she does not hold in order to conceal his or her real feelings or motives
+
