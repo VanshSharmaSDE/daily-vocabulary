@@ -1118,3 +1118,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 399. **Schizophrenics** – someone who is afflicted with schizophrenia
 
+400. **Cupful** – the quantity a cup will hold
+
