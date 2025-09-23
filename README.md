@@ -1106,3 +1106,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 395. **Conies** – any of several small ungulate mammals of Africa and Asia with rodent-like incisors and feet with hooflike toes
 
+
+
+## 📅 2025-09-23
+
+396. **Sparkleberry** – shrub or small tree of eastern United States having black inedible berries
+
