@@ -1114,3 +1114,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 397. **Rhetoric** – using language effectively to please or persuade
 
+398. **Sachets** – a small soft bag containing perfumed powder; used to perfume items in a drawer or chest
+
