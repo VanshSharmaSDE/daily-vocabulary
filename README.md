@@ -1112,3 +1112,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 396. **Sparkleberry** – shrub or small tree of eastern United States having black inedible berries
 
+397. **Rhetoric** – using language effectively to please or persuade
+
