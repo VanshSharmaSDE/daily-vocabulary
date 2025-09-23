@@ -1116,3 +1116,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 398. **Sachets** – a small soft bag containing perfumed powder; used to perfume items in a drawer or chest
 
+399. **Schizophrenics** – someone who is afflicted with schizophrenia
+
