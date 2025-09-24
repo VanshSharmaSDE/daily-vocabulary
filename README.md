@@ -1130,3 +1130,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 403. **Springtail** – any of numerous minute wingless primitive insects possessing a special abdominal appendage that allows the characteristic nearly perpetual springing pattern; found in soil rich in organic debris or on the surface of snow or water
 
+404. **Allies** – the alliance of nations that fought the Axis in World War II and which (with subsequent additions) signed the charter of the United Nations in 1945
+
