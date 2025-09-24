@@ -1126,3 +1126,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 401. **Archipallium** – the olfactory cortex of the cerebrum
 
+402. **Fractionate** – separate into constituents or fractions containing concentrated constituents
+
