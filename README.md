@@ -1132,3 +1132,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 404. **Allies** – the alliance of nations that fought the Axis in World War II and which (with subsequent additions) signed the charter of the United Nations in 1945
 
+405. **Confirmation** – additional proof that something that was believed (some fact or hypothesis or theory) is correct
+
