@@ -1120,3 +1120,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 400. **Cupful** – the quantity a cup will hold
 
+
+
+## 📅 2025-09-24
+
+401. **Archipallium** – the olfactory cortex of the cerebrum
+
