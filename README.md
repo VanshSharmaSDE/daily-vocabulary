@@ -1128,3 +1128,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 402. **Fractionate** – separate into constituents or fractions containing concentrated constituents
 
+403. **Springtail** – any of numerous minute wingless primitive insects possessing a special abdominal appendage that allows the characteristic nearly perpetual springing pattern; found in soil rich in organic debris or on the surface of snow or water
+
