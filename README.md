@@ -1142,3 +1142,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 407. **Oliguria** – abnormally small production of urine; can be a symptom of kidney disease or obstruction of the urinary tract or edema or an imbalance of fluids and electrolytes in the body
 
+408. **Curses** – profane or obscene expression usually of surprise or anger
+

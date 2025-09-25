@@ -406,3 +406,4 @@ allies
 confirmation
 ingurgitate
 oliguria
+curses
