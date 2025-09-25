@@ -1134,3 +1134,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 405. **Confirmation** – additional proof that something that was believed (some fact or hypothesis or theory) is correct
 
+
+
+## 📅 2025-09-25
+
+406. **Ingurgitate** – overeat or eat immodestly; make a pig of oneself
+
