@@ -1146,3 +1146,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 409. **Centroids** – the center of mass of an object of uniform density
 
+410. **Teaberry** – creeping shrub of eastern North America having white bell-shaped flowers followed by spicy red berrylike fruit and shiny aromatic leaves that yield wintergreen oil
+
