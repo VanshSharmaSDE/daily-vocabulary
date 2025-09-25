@@ -1144,3 +1144,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 408. **Curses** – profane or obscene expression usually of surprise or anger
 
+409. **Centroids** – the center of mass of an object of uniform density
+
