@@ -1140,3 +1140,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 406. **Ingurgitate** – overeat or eat immodestly; make a pig of oneself
 
+407. **Oliguria** – abnormally small production of urine; can be a symptom of kidney disease or obstruction of the urinary tract or edema or an imbalance of fluids and electrolytes in the body
+
