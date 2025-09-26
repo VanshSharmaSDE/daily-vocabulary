@@ -1156,3 +1156,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 412. **Flowcharts** – a diagram of the sequence of operations in a computer program or an accounting system
 
+413. **Actual** – presently existing in fact and not merely potential or possible
+
