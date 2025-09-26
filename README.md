@@ -1148,3 +1148,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 410. **Teaberry** – creeping shrub of eastern North America having white bell-shaped flowers followed by spicy red berrylike fruit and shiny aromatic leaves that yield wintergreen oil
 
+
+
+## 📅 2025-09-26
+
+411. **Numerically** – in number; with regard to numbers
+
