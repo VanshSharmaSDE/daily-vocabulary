@@ -1160,3 +1160,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 414. **Sideshows** – a subordinate incident of little importance relative to the main event
 
+415. **Sententious** – abounding in or given to pompous or aphoristic moralizing; - Kathleen Barnes
+
