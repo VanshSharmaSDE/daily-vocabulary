@@ -1158,3 +1158,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 413. **Actual** – presently existing in fact and not merely potential or possible
 
+414. **Sideshows** – a subordinate incident of little importance relative to the main event
+
