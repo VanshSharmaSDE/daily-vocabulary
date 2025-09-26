@@ -410,3 +410,4 @@ curses
 centroids
 teaberry
 numerically
+flowcharts

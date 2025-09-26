@@ -1154,3 +1154,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 411. **Numerically** – in number; with regard to numbers
 
+412. **Flowcharts** – a diagram of the sequence of operations in a computer program or an accounting system
+
