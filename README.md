@@ -1174,3 +1174,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 419. **Scarpering** – flee; take to one's heels; cut and run
 
+420. **Shoreward** – (of winds) coming from the sea toward the land
+
