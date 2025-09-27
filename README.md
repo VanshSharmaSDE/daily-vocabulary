@@ -1168,3 +1168,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 416. **Gosmore** – European weed widely naturalized in North America having yellow flower heads and leaves resembling a cat's ears
 
+417. **Daphnias** – minute freshwater crustacean having a round body enclosed in a transparent shell; moves about like a flea by means of hairy branched antennae
+
