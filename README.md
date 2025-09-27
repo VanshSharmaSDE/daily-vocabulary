@@ -1172,3 +1172,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 418. **Satire** – witty language used to convey insults or scorn; ; ; --Jonathan Swift
 
+419. **Scarpering** – flee; take to one's heels; cut and run
+
