@@ -1162,3 +1162,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 415. **Sententious** – abounding in or given to pompous or aphoristic moralizing; - Kathleen Barnes
 
+
+
+## 📅 2025-09-27
+
+416. **Gosmore** – European weed widely naturalized in North America having yellow flower heads and leaves resembling a cat's ears
+
