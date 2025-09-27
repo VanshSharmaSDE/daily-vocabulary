@@ -1170,3 +1170,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 417. **Daphnias** – minute freshwater crustacean having a round body enclosed in a transparent shell; moves about like a flea by means of hairy branched antennae
 
+418. **Satire** – witty language used to convey insults or scorn; ; ; --Jonathan Swift
+
