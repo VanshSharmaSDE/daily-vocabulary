@@ -1182,3 +1182,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 421. **Bronzed** – give the color and appearance of bronze to something
 
+422. **Windjammer** – a large sailing ship
+
