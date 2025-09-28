@@ -1176,3 +1176,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 420. **Shoreward** – (of winds) coming from the sea toward the land
 
+
+
+## 📅 2025-09-28
+
+421. **Bronzed** – give the color and appearance of bronze to something
+
