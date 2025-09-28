@@ -1186,3 +1186,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 423. **Waterway** – a navigable body of water
 
+424. **Beneficiary** – the recipient of funds or other benefits
+

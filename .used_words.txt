@@ -422,3 +422,4 @@ shoreward
 bronzed
 windjammer
 waterway
+beneficiary
