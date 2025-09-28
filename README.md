@@ -1184,3 +1184,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 422. **Windjammer** – a large sailing ship
 
+423. **Waterway** – a navigable body of water
+
