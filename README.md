@@ -1196,3 +1196,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 426. **Maoists** – an advocate of Maoism
 
+427. **Corrects** – make right or correct
+
