@@ -1200,3 +1200,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 428. **Levis** – a popular brand of jeans
 
+429. **Sumos** – a Japanese form of wrestling; you lose if you are forced out of a small ring or if any part of your body (other than your feet) touches the ground
+
