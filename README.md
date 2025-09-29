@@ -1202,3 +1202,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 429. **Sumos** – a Japanese form of wrestling; you lose if you are forced out of a small ring or if any part of your body (other than your feet) touches the ground
 
+430. **Miscegenations** – reproduction by parents of different races (especially by white and non-white persons)
+
