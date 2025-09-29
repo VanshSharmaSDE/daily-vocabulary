@@ -1190,3 +1190,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 425. **Gavage** – feeding that consists of the delivery of a nutrient solution (as through a nasal tube) to someone who cannot or will not eat
 
+
+
+## 📅 2025-09-29
+
+426. **Maoists** – an advocate of Maoism
+
