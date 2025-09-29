@@ -1198,3 +1198,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 427. **Corrects** – make right or correct
 
+428. **Levis** – a popular brand of jeans
+
