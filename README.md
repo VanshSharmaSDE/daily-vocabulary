@@ -1216,3 +1216,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 434. **Beyond** – farther along in space or time or degree
 
+435. **Stalactites** – a cylinder of calcium carbonate hanging from the roof of a limestone cave
+
