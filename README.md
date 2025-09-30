@@ -1214,3 +1214,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 433. **Betweenbrain** – the posterior division of the forebrain; connects the cerebral hemispheres with the mesencephalon
 
+434. **Beyond** – farther along in space or time or degree
+
