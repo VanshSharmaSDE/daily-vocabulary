@@ -1212,3 +1212,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 432. **Romneya** – one species: matilija poppy
 
+433. **Betweenbrain** – the posterior division of the forebrain; connects the cerebral hemispheres with the mesencephalon
+
