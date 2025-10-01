@@ -1230,3 +1230,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 439. **Forests** – the trees and other plants in a large densely wooded area
 
+440. **Grinds** – an insignificant student who is ridiculed as being affected or boringly studious
+
