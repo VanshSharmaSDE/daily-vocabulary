@@ -1228,3 +1228,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 438. **Quantification** – a limitation imposed on the variables of a proposition (as by the quantifiers `some' or `all' or `no')
 
+439. **Forests** – the trees and other plants in a large densely wooded area
+
