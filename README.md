@@ -1226,3 +1226,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 437. **Schematization** – providing a chart or outline of a system
 
+438. **Quantification** – a limitation imposed on the variables of a proposition (as by the quantifiers `some' or `all' or `no')
+
