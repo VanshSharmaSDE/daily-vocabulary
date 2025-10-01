@@ -1224,3 +1224,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 436. **Focused** – direct one's attention on something
 
+437. **Schematization** – providing a chart or outline of a system
+
