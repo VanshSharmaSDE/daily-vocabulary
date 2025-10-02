@@ -1238,3 +1238,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 441. **Festooned** – decorate with strings of flowers
 
+442. **Temperatures** – the degree of hotness or coldness of a body or environment (corresponding to its molecular activity)
+
