@@ -1244,3 +1244,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 444. **Epinephelus** – genus of groupers or sea bass
 
+445. **Strophes** – one section of a lyric poem or choral ode in classical Greek drama
+
