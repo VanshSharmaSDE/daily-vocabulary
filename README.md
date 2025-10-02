@@ -1242,3 +1242,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 443. **Archaeologist** – an anthropologist who studies prehistoric people and their culture
 
+444. **Epinephelus** – genus of groupers or sea bass
+
