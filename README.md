@@ -1232,3 +1232,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 440. **Grinds** – an insignificant student who is ridiculed as being affected or boringly studious
 
+
+
+## 📅 2025-10-02
+
+441. **Festooned** – decorate with strings of flowers
+
