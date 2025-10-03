@@ -1256,3 +1256,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 448. **Psyllium** – plantain of Mediterranean regions whose seeds swell and become gelatinous when moist and are used as a mild laxative
 
+449. **Neuropathy** – any pathology of the peripheral nerves
+
