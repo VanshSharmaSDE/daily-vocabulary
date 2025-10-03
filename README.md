@@ -1258,3 +1258,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 449. **Neuropathy** – any pathology of the peripheral nerves
 
+450. **Erses** – any of several related languages of the Celts in Ireland and Scotland
+
