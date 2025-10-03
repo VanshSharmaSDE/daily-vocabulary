@@ -1252,3 +1252,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 446. **Unoxygenated** – (used of blood) not supplied with oxygen
 
+447. **Mishandles** – make a mess of, destroy or ruin
+
