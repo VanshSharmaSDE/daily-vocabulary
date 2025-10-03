@@ -1246,3 +1246,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 445. **Strophes** – one section of a lyric poem or choral ode in classical Greek drama
 
+
+
+## 📅 2025-10-03
+
+446. **Unoxygenated** – (used of blood) not supplied with oxygen
+
