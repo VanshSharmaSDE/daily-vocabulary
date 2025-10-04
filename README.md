@@ -1268,3 +1268,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 452. **Amendable** – capable of being corrected by additions
 
+453. **Accretion** – an increase by natural growth or addition
+
