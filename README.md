@@ -1270,3 +1270,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 453. **Accretion** – an increase by natural growth or addition
 
+454. **Ounces** – a unit of apothecary weight equal to 480 grains or one twelfth of a pound
+
