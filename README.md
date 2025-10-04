@@ -1260,3 +1260,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 450. **Erses** – any of several related languages of the Celts in Ireland and Scotland
 
+
+
+## 📅 2025-10-04
+
+451. **Tattooing** – stain (skin) with indelible color
+
