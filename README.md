@@ -1272,3 +1272,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 454. **Ounces** – a unit of apothecary weight equal to 480 grains or one twelfth of a pound
 
+455. **Backhand** – a return made with the back of the hand facing the direction of the stroke
+
