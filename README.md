@@ -1266,3 +1266,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 451. **Tattooing** – stain (skin) with indelible color
 
+452. **Amendable** – capable of being corrected by additions
+
