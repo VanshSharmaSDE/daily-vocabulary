@@ -1280,3 +1280,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 456. **Logomachist** – someone given to disputes over words
 
+457. **Laryngectomy** – surgical removal of part or all of the larynx (usually to treat cancer of the larynx)
+
