@@ -1284,3 +1284,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 458. **Immigration** – migration into a place (especially migration to a country of which you are not a native in order to settle there)
 
+459. **Toilsome** – characterized by effort to the point of exhaustion; especially physical effort
+
