@@ -1286,3 +1286,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 459. **Toilsome** – characterized by effort to the point of exhaustion; especially physical effort
 
+460. **Houseplant** – any of a variety of plants grown indoors for decorative purposes
+
