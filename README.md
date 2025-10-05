@@ -1282,3 +1282,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 457. **Laryngectomy** – surgical removal of part or all of the larynx (usually to treat cancer of the larynx)
 
+458. **Immigration** – migration into a place (especially migration to a country of which you are not a native in order to settle there)
+
