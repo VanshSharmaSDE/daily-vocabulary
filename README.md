@@ -1300,3 +1300,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 464. **Mandragora** – a genus of stemless herbs of the family Solanaceae
 
+465. **Carrousels** – a conveyer belt that carries luggage to be claimed by air travelers
+
