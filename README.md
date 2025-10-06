@@ -1294,3 +1294,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 461. **Frowzy** – negligent of neatness especially in dress and person; habitually dirty and unkempt
 
+462. **Curst** – utter obscenities or profanities
+
