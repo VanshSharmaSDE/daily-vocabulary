@@ -1298,3 +1298,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 463. **Softwares** – (computer science) written programs or procedures or rules and associated documentation pertaining to the operation of a computer system and that are stored in read/write memory
 
+464. **Mandragora** – a genus of stemless herbs of the family Solanaceae
+
