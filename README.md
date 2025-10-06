@@ -1288,3 +1288,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 460. **Houseplant** – any of a variety of plants grown indoors for decorative purposes
 
+
+
+## 📅 2025-10-06
+
+461. **Frowzy** – negligent of neatness especially in dress and person; habitually dirty and unkempt
+
