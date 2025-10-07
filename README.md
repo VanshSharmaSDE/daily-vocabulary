@@ -1312,3 +1312,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 468. **Harmonically** – with respect to harmony
 
+469. **Hatmakers** – someone who makes and sells hats
+
