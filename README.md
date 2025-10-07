@@ -1314,3 +1314,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 469. **Hatmakers** – someone who makes and sells hats
 
+470. **Defensive** – an attitude of defensiveness (especially in the phrase `on the defensive')
+
