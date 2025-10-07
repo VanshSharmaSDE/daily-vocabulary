@@ -1310,3 +1310,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 467. **Personalizes** – make personal or more personal
 
+468. **Harmonically** – with respect to harmony
+
