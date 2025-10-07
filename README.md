@@ -1308,3 +1308,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 466. **Intergalactic** – between or among galaxies
 
+467. **Personalizes** – make personal or more personal
+

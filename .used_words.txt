@@ -465,3 +465,4 @@ softwares
 mandragora
 carrousels
 intergalactic
+personalizes
