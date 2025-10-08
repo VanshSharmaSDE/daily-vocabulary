@@ -1324,3 +1324,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 472. **Lacerate** – cut or tear irregularly
 
+473. **Disciplinal** – designed to promote discipline
+
