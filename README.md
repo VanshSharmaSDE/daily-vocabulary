@@ -1316,3 +1316,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 470. **Defensive** – an attitude of defensiveness (especially in the phrase `on the defensive')
 
+
+
+## 📅 2025-10-08
+
+471. **Sycophantic** – attempting to win favor from influential people by flattery
+
