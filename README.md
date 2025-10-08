@@ -1328,3 +1328,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 474. **Bimbo** – a young woman indulged by rich and powerful older men
 
+475. **Verbifies** – make into a verb
+
