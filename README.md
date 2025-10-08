@@ -1322,3 +1322,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 471. **Sycophantic** – attempting to win favor from influential people by flattery
 
+472. **Lacerate** – cut or tear irregularly
+
