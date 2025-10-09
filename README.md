@@ -1342,3 +1342,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 479. **Teratogenesis** – the development of defects in an embryo
 
+480. **Chondriosome** – an organelle containing enzymes responsible for producing energy
+
