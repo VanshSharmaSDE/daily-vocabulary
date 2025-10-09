@@ -1330,3 +1330,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 475. **Verbifies** – make into a verb
 
+
+
+## 📅 2025-10-09
+
+476. **Primus** – the presiding bishop of the Episcopal Church of Scotland
+
