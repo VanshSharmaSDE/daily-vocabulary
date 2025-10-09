@@ -1336,3 +1336,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 476. **Primus** – the presiding bishop of the Episcopal Church of Scotland
 
+477. **Viziership** – the position of vizier
+
