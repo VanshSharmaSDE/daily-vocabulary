@@ -1340,3 +1340,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 478. **Whorled** – in the shape of a coil
 
+479. **Teratogenesis** – the development of defects in an embryo
+
