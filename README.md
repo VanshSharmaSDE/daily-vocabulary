@@ -1338,3 +1338,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 477. **Viziership** – the position of vizier
 
+478. **Whorled** – in the shape of a coil
+
