@@ -1354,3 +1354,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 483. **Pontifices** – a member of the highest council of priests in ancient Rome
 
+484. **Lowness** – a position of inferior status; low in station or rank or fortune or estimation
+
