@@ -1350,3 +1350,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 481. **Nutsedge** – a widely distributed perennial sedge having small edible nutlike tubers
 
+482. **Ecrevisse** – tiny lobster-like crustaceans usually boiled briefly
+
