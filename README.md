@@ -1356,3 +1356,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 484. **Lowness** – a position of inferior status; low in station or rank or fortune or estimation
 
+485. **Obits** – a notice of someone's death; usually includes a short biography
+
