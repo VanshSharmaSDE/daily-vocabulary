@@ -1352,3 +1352,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 482. **Ecrevisse** – tiny lobster-like crustaceans usually boiled briefly
 
+483. **Pontifices** – a member of the highest council of priests in ancient Rome
+
