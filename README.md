@@ -1344,3 +1344,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 480. **Chondriosome** – an organelle containing enzymes responsible for producing energy
 
+
+
+## 📅 2025-10-10
+
+481. **Nutsedge** – a widely distributed perennial sedge having small edible nutlike tubers
+
