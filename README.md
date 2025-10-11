@@ -1366,3 +1366,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 487. **Tankage** – the quantity contained in (or the capacity of) a tank or tanks
 
+488. **Roomette** – a small private compartment for one on a sleeping car
+
