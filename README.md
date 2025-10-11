@@ -1364,3 +1364,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 486. **Writes** – produce a literary work
 
+487. **Tankage** – the quantity contained in (or the capacity of) a tank or tanks
+
