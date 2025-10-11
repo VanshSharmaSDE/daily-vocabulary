@@ -1370,3 +1370,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 489. **Grapeshot** – a cluster of small projectiles fired together from a cannon to produce a hail of shot
 
+490. **Solent** – a strait of the English Channel between the coast of Hampshire and the Isle of Wight
+
