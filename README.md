@@ -1358,3 +1358,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 485. **Obits** – a notice of someone's death; usually includes a short biography
 
+
+
+## 📅 2025-10-11
+
+486. **Writes** – produce a literary work
+
