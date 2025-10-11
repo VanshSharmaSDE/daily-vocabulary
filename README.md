@@ -1368,3 +1368,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 488. **Roomette** – a small private compartment for one on a sleeping car
 
+489. **Grapeshot** – a cluster of small projectiles fired together from a cannon to produce a hail of shot
+
