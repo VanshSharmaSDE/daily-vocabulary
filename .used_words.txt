@@ -490,3 +490,4 @@ roomette
 grapeshot
 solent
 commences
+rearrange

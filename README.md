@@ -1378,3 +1378,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 491. **Commences** – take the first step or steps in carrying out an action
 
+492. **Rearrange** – put into a new order or arrangement
+
