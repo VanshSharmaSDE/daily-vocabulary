@@ -1384,3 +1384,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 494. **Everted** – turn inside out; turn the inner surface of outward
 
+495. **Catheterise** – insert a catheter into (a body part)
+
