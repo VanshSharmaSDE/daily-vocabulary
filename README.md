@@ -1380,3 +1380,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 492. **Rearrange** – put into a new order or arrangement
 
+493. **Billets** – a short personal letter
+
