@@ -1382,3 +1382,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 493. **Billets** – a short personal letter
 
+494. **Everted** – turn inside out; turn the inner surface of outward
+
