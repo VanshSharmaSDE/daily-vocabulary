@@ -1386,3 +1386,9 @@ This repository is updated daily with 5 new English words and their meanings.
 
 495. **Catheterise** – insert a catheter into (a body part)
 
+
+
+## 📅 2025-10-13
+
+496. **Oleos** – a spread made chiefly from vegetable oils and used as a substitute for butter
+
