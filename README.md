@@ -1396,3 +1396,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 498. **Conservatoires** – a schoolhouse with special facilities for fine arts
 
+499. **Ostracoderm** – extinct fish-like jawless vertebrate having a heavily armored body; of the Paleozoic
+
