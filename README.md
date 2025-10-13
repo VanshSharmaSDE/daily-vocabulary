@@ -1394,3 +1394,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 497. **Indecenter** – not in keeping with accepted standards of what is right or proper in polite society
 
+498. **Conservatoires** – a schoolhouse with special facilities for fine arts
+
