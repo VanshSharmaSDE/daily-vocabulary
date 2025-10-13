@@ -1392,3 +1392,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 496. **Oleos** – a spread made chiefly from vegetable oils and used as a substitute for butter
 
+497. **Indecenter** – not in keeping with accepted standards of what is right or proper in polite society
+
