@@ -1398,3 +1398,5 @@ This repository is updated daily with 5 new English words and their meanings.
 
 499. **Ostracoderm** – extinct fish-like jawless vertebrate having a heavily armored body; of the Paleozoic
 
+500. **Feminises** – assume (more) feminine characteristics
+
